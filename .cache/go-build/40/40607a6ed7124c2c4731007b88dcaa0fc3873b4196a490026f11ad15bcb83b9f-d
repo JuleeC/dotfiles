@@ -1,0 +1,4 @@
+./compiler.go
+./expression.go
+./math.go
+./tests.go

@@ -1,0 +1,4 @@
+./aur_source.go
+./clean.go
+./merge.go
+./preparer.go

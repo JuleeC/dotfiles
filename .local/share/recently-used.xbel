@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/julee/Downloads/FiraCodeNerdFont-Regular.ttf" added="2025-05-12T18:23:20.129757Z" modified="2025-05-12T18:23:20.129760Z" visited="2025-05-12T18:23:20.129757Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-05-12T18:23:20.129758Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/julee/Downloads/FiraCodeNerdFont-Regular(1).ttf" added="2025-05-12T18:23:20.144187Z" modified="2025-05-12T18:23:20.144192Z" visited="2025-05-12T18:23:20.144188Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-05-12T18:23:20.144189Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/julee/Downloads/wallhaven-w5o5x7_1920x1080.png" added="2025-05-14T18:01:24.287457Z" modified="2025-05-14T18:01:24.287460Z" visited="2025-05-14T18:01:24.287457Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-05-14T18:01:24.287458Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

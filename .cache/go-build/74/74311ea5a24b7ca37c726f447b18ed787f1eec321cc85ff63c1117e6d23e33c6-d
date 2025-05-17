@@ -1,0 +1,6 @@
+./converter.go
+./doc.go
+./error.go
+./numconvmethod.go
+./options.go
+./string.go

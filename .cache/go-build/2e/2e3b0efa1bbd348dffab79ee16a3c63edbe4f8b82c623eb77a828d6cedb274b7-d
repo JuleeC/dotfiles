@@ -1,0 +1,11 @@
+./clean.go
+./cmd.go
+./errors.go
+./get.go
+./local_install.go
+./main.go
+./print.go
+./query.go
+./sync.go
+./vcs.go
+./vote.go

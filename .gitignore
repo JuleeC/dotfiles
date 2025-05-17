@@ -1,8 +1,11 @@
 .mozilla/
+.cache/
+.gnupg/
+.local/
 Downloads/
 Projects/
 yay/
-.bash_hisory
+.bash_history
 .bash_logout
 .bash_profile
 .viminfo

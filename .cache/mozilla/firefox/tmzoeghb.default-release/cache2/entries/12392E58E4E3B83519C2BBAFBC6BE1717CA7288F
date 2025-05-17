@@ -1,0 +1,160 @@
+d1 2
+a2 2
+! Checksum: 8DXfmS/lNpIWGFkZcPEpyA
+! Diff-Path: ../patches/2/2-s-1747487747-3600.patch
+d5 2
+a6 2
+! Version: 2.3.83.87
+! TimeUpdated: 2025-05-17T13:11:16+00:00
+d30424 1
+d30427 1
+a30427 1
+freex2line.online,cimanowtv.com,cnvids.com,cimanow.cc,cimanow.*#%#//scriptlet('remove-node-text', 'script', '/\.__proto__\.constructor\.name|decompressFromUTF16|\)\.substr\(0|document\[_0x[\s\S]*?innerHTML|=Array\.prototype\.slice\.call\(arguments\)|adBlockDetected|eval/')
+d30441 1
+a30441 1
+freex2line.online#%#(()=>{document.addEventListener("DOMContentLoaded",(()=>{const t=document.querySelector(".InnerDownload a#downloadbtn"),e=document.querySelector('script[type="application/json"]');if(!t||!e?.textContent)return;let n;try{n=JSON.parse(e.textContent)}catch(t){return void console.error(t)}if(!n)return;if(Array.isArray(n)&&(n=n.find((t=>t&&"object"==typeof t)),!n))return;const r=Object.values(n).map((t=>{if("string"==typeof t&&t.startsWith("aHR0c"))try{return atob(t)}catch{return t}return t})).find((t=>"string"==typeof t&&t.startsWith("https://")&&t.includes("cimanow.cc")&&t.includes("/watching/")&&!t.includes("Adam")&&(t=>{try{return new URL(t),!0}catch{return!1}})(t)));r&&location.replace(r)}));})();
+d48791 2
+a48792 2
+*$script,third-party,denyallow=mega.co.nz|mega.nz|libs.baidu.com|ilfcdn.li|bytecdntp.com|fastlycdn.com|doodcdn.co|intensedebate.com|vixcloud.co|cdn.plyr.io|rsc.cdn77.org|linkvertise.com|fastly.net|statically.io|sharecast.ws|b-cdn.net|bunnycdn.ru|bootstrapcdn.com|cdn.ampproject.org|cloudflare.com|cdn.staticfile.org|disqus.com|disquscdn.com|dmca.com|ebacdn.com|facebook.net|fastlylb.net|fbcdn.net|fluidplayer.com|fontawesome.com|github.io|google.com|googleapis.com|googletagmanager.com|gstatic.com|jquery.com|jsdelivr.net|jwpcdn.com|jwplatform.com|recaptcha.net|shrink.pe|twitter.com|ulogin.ru|unpkg.com|userapi.com|vidazoo.com|vk.com|yastatic.net|ytimg.com|zencdn.net|youtube.com|cackle.me|googleoptimize.com|vuukle.com|chatango.com|twimg.com|google-analytics.com|hcaptcha.com|raincaptcha.com|media-imdb.com|blogger.com|hwcdn.net|instagram.com|wp.com|fastcomments.com|plyr.io|imgsmail.ru|cloudflare.net|rabbitstream.net|x.com,_____,domain=fapfappy.com|onestream.xyz|123movieshd.*|sportsonline.*|dlhd.*|ducumon.click|sextb.date|sextb.net|sports-stream.*|igg-games.com|pcgamestorrents.com|igg-games.co|coolcast2.com|watchcriminalminds.com|up-4.net|upload-4ever.com|123movie.*|seegames.xyz|sportea.online|cr8soccer.online|musicriders.blogspot.com|streameast.watch|watchserieshd.live|alivegore.com|bestporncomix.com|nettruyento.com|rawkuma.com|rule34hentai.net|123-movies.zone|up-4ever.net|futbol-libre.org|rivofutboltv.club|phimmoiyyy.net|tuktukcinema.*|wcofun.org|ssrmovies.singles|kissasian.*|animeunity.cc|zinmanhwa.com|zeriun.cc|cineb.app|1377x.to|furher.in|himovies.sx|gomovies.sx|hexupload.net|seehdgames.xyz|bestporn4free.com|tinyzonetv.se|mega4upload.com|kissanimefree.cc|yugenanime.tv|witanime.org|embed4u.xyz|fireload.com|mixdroop.*|hentaiasmr.moe|daddylivehd.*|meetdownload.com|file-upload.org|sotwe.com|streamvid.net|1337xx.to|opensubtitles.org|bunkrr.su|bunkr.*|bunkr.ci|bunkr.ph|oxy.st|backfirstwo.com|5.45.95.74|3dporndude.com|thepiratebay.zone|mmsbee24.com|faselhd.*|manga-lek.net|wecima.cloud|goone.pro|deepgoretube.site|megaup.net|1tamilblasters.*|185.217.95.44|gameshdlive.net|peeplink.in|ebookhunter.net|mdbekjwqa.pw|limetorrents.lol|akuma.moe|imgdawgknuttz.com|bluemedialink.online|pahe.me|rawinu.com|nicomanga.com|prbay.online|prbay.top|prbay.xyz|mdfx9dc8n.net|toonily.me|nxbrew.net|faselhd-embed.scdns.io|bluemediaurls.lol|mdzsmutpcvykb.net|bestgirlsexy.com|streamer4u.site|hdhub4u.mov|bluemediadownload.*|mixdropjmk.pw|drivemoe.com|moviekhhd.biz|free-content.pro|newmangaraw.com|nobodywalked.com|mixdrop21.net|kaas.*|kickassanime.*|kickassanimes.*|everia.club|faselhdtv.*|animeunity.to|get-to.link|freetvspor.lol|eztvx.to|urlbluemedia.*|arcasiangrocer.store|elgoles.pro|hdfungamezz.xyz|novelfull.com|jav.land|tvappapk.com|gogoanimes.fi|nativesurge.info|mercenaryenrollments.net|readcomiconline.li|tututweak.app|y2mate.is|braflix.ru|javgg.co|javgg.net|mangadistrict.com|poscitechs.xyz|bentomanga.top|bigcomics.bid|brmangas.top|cmoa1.top|j8jp.com|janime.top|jpraw.xyz|kakuyomu.in|kkraw.com|komiku.win|lectormanga.top|lermanga.top|manga1000.top|manga1001.win|manga1001.xyz|mangajp.top|mangakl.su|mangaraw.bid|mangavy.com|mangaz.win|scanita.top|shinigami-id.top|sushiscan.top|syosetu.gs|javplayer.org|lodynet.link|play.playkrx18.site|projectjav.com|pandamtl.com|cyberfile.me|fotokiz.com|full4movies.network|cosmic1.co|watchhowimetyourmother.online|kuyhaa.me|gamingweb.xyz|tmohentai.com|iegybest.club|c-egy-ds.online|kuyhaa-me.site|gaycock4u.com|infinityscans.net|infinityscans.xyz|streamtape.*|mangaraw.ac|file-zz40pd56-embed.com|tempatwisata.pro|bunkr-albums.io|fap-nation.org|egyrbyeteuh.sbs|egydead.center|9xplayer.com|javsek.net|thepiratebay3.co|prmovies.im|minoplres.xyz|krakenfiles.com|noxx.to|mixdrop.ps|mixdrop.is|daddylivehd1.click|manhwatoon.com|bitcine.app|fmovies-hd.to|cliphotnews.*|eromanga-show.com|hentai-one.com|hentaipaw.com|mp4upload.com|livecamrips.tv|pervtube.net|xtremestream.xyz|tpi.li|jestful.net|flaswish.com|fsdcmo.sbs|strimsy.top|kaliscan.io|japteenx.com|videzz.net|hivecomic.com|yts-official.mx|animeworld.*|itdmusics.com|lmanime.com|zavalise.com|bluedownload.*|likemanga.ink|y2meta.net|jgvdata.com|realpornblogger.com|natomanga.com|9animetv.to|soap2day.day
+$xmlhttprequest,third-party,denyallow=mega.co.nz|mega.nz|libs.baidu.com|ilfcdn.li|bytecdntp.com|fastlycdn.com|doodcdn.co|intensedebate.com|vixcloud.co|cdn.plyr.io|rsc.cdn77.org|linkvertise.com|fastly.net|statically.io|sharecast.ws|b-cdn.net|bunnycdn.ru|bootstrapcdn.com|cdn.ampproject.org|cloudflare.com|cdn.staticfile.org|disqus.com|disquscdn.com|dmca.com|ebacdn.com|facebook.net|fastlylb.net|fbcdn.net|fluidplayer.com|fontawesome.com|github.io|google.com|googleapis.com|googletagmanager.com|gstatic.com|jquery.com|jsdelivr.net|jwpcdn.com|jwplatform.com|recaptcha.net|shrink.pe|twitter.com|ulogin.ru|unpkg.com|userapi.com|vidazoo.com|vk.com|yastatic.net|ytimg.com|zencdn.net|youtube.com|cackle.me|googleoptimize.com|vuukle.com|chatango.com|twimg.com|google-analytics.com|hcaptcha.com|raincaptcha.com|media-imdb.com|blogger.com|hwcdn.net|instagram.com|wp.com|fastcomments.com|plyr.io|imgsmail.ru|cloudflare.net|rabbitstream.net|x.com,_____,domain=everia.club|projectfreetv.cyou|skidrowreloaded.com|kickassanime.*|dlhd.*|nxbrew.net|ziperto.com|lilymanga.net|stly.link|bentomanga.top|bigcomics.bid|brmangas.top|cmoa1.top|j8jp.com|janime.top|jpraw.xyz|kakuyomu.in|kkraw.com|komiku.win|lectormanga.top|lermanga.top|manga1000.top|manga1001.win|manga1001.xyz|mangajp.top|mangakl.su|mangaraw.bid|mangavy.com|mangaz.win|scanita.top|shinigami-id.top|sushiscan.top|syosetu.gs|worldsports.me|poscitechs.xyz|harimanga.com|movieshubweb.com|animeflv.net|techcabal.net|yts.mx|nextgencloudtools.com|soap2day.day
+a76997 1
+.com/exload.js
+a92791 1
+||2493may2024.com^
+a92831 1
+||2cnjuh34jbhub.com^
+a94419 1
+||ajfnee.com^
+a96239 1
+||bidarblam.com^
+a96699 1
+||bqrdoilvhadpq.vip^
+a97347 1
+||cdn1cloudflare.xyz^
+a97502 1
+||chaiserepiece.com^
+a98639 1
+||crumberstoa.com^
+a98677 1
+||cstwpush.com^
+a99862 1
+||drakerecitalpraised.com^
+a99933 1
+||dskesrsbhqdnlta.xyz^
+a100067 1
+||dyingtrolleynick.com^
+a100375 1
+||eighthpowerfully.com^
+a101847 1
+||fukpgbwf.com^
+a102608 1
+||gonreommon.com^
+a102978 1
+||gushfilmingbaseless.com^
+a103719 1
+||hourglassinedible.com^
+a103755 1
+||hqqvjdttre.club^
+a104666 1
+||jadating.shop^
+a105174 1
+||kadime.cc^
+a106464 1
+||luckilygelatine.com^
+a107567 1
+||mr2cnjuh34jb.com^
+a107612 1
+||muddyhonorarymy.com^
+a107921 1
+||nearlynightingalebust.com^
+a107927 1
+||neckedhilting.com^
+a108349 1
+||nqtkqqfmbjk.com^
+a108638 1
+||occxfzqyhhq.com^
+a110856 1
+||protustescuatize.com^
+a110950 1
+||psuptyweze.com^
+a111318 1
+||qepene.lol^
+a111743 1
+||realizationwaterwillingly.com^
+a112100 1
+||retainedpotential.com^
+a112298 1
+||riskexcel.com^
+a112422 1
+||romancedaters.com^
+a113707 1
+||smart2cnjuh34jb.com^
+a117359 1
+||welltodo-type.com^
+a117596 1
+||winged-addition.com^
+a119844 1
+||beop.io^$third-party
+a119976 1
+||collectiveaudience.co^$third-party
+a122605 1
+||hue2n.com^$popup
+a127273 1
+||creative.nudelive.store^
+a127283 1
+||d.seksohub.com^
+d127419 1
+a128914 1
+||net.sexstories69.com^
+a129087 1
+||vi1.prettytube.net^
+a134868 1
+odishatv.in##[class$="-ad"]
+a135363 1
+codelist.cc##a[href*=".pxf.io/"] > img
+d135639 1
+a136754 6
+yahoo.com##div[style="height: 250px; width: 300px;"]
+yahoo.com##div[style="height: 250px; width: 970px;"]
+yahoo.com##div[style="height: 90px; width: 728px;"]
+yahoo.com##div[style="height:250px;width:300px"]
+yahoo.com##div[style="height:250px;width:970px"]
+yahoo.com##div[style="height:90px;width:728px"]
+a136799 1
+taboolanews.com##div[class*=" trc_elastic_sponsored-"]
+a138843 1
+@@||taboolanews.com/feed/summary?publisherId=Taboola_samsung-carnival-us&key=Taboola&viewID=$generichide
+áµJ$Tu           h(×ÐH2©'h(Ù   X    ~FETCH,:https://filters.adtidy.org/extension/firefox/patches/2/2-s-1747469541-3600.patch strongly-framed 1 security-info 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 request-method GET response-head HTTP/2 200 
+date: Sat, 17 May 2025 18:39:12 GMT
+content-type: text/x-diff; charset=utf-8
+content-length: 8996
+last-modified: Sat, 17 May 2025 17:48:17 GMT
+x-rgw-object-type: Normal
+etag: "3f4c09440be2cdad3a3b1d38c0c22eb1"
+x-amz-request-id: tx000008ccb4a9eb9f50946-006828d2dd-8e6533b-prg
+x-77-nzt: EwwBnJI9gQH3LgEAAAwBJRPCLgG3xQMAAAgBbT1aDQAA
+x-77-nzt-ray: 0712ec389082839fd0d72868f2b8dd05
+x-77-cache: HIT
+x-77-age: 302
+server: CDN77-Turbo
+access-control-allow-origin: *
+x-77-pop: viennaAT
+accept-ranges: bytes
+X-Firefox-Spdy: h2
+ original-response-headers date: Sat, 17 May 2025 18:39:12 GMT
+content-type: text/x-diff; charset=utf-8
+content-length: 8996
+last-modified: Sat, 17 May 2025 17:48:17 GMT
+x-rgw-object-type: Normal
+etag: "3f4c09440be2cdad3a3b1d38c0c22eb1"
+x-amz-request-id: tx000008ccb4a9eb9f50946-006828d2dd-8e6533b-prg
+x-77-nzt: EwwBnJI9gQH3LgEAAAwBJRPCLgG3xQMAAAgBbT1aDQAA
+x-77-nzt-ray: 0712ec389082839fd0d72868f2b8dd05
+x-77-cache: HIT
+x-77-age: 302
+server: CDN77-Turbo
+access-control-allow-origin: *
+x-77-pop: viennaAT
+accept-ranges: bytes
+X-Firefox-Spdy: h2
+ ctid 1 net-response-time-onstart 64 net-response-time-onstop 68   #$

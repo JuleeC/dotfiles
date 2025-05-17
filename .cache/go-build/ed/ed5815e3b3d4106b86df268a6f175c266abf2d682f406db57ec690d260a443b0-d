@@ -1,0 +1,3 @@
+./cache.go
+./client.go
+./query.go

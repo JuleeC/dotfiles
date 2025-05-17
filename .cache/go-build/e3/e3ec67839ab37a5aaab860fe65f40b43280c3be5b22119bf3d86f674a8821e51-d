@@ -1,0 +1,16 @@
+./array.go
+./big.go
+./bool.go
+./builder.go
+./doc.go
+./error.go
+./float.go
+./int.go
+./key.go
+./maps.go
+./node.go
+./number.go
+./object.go
+./parser.go
+./string.go
+./time.go

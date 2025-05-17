@@ -1,4 +1,4 @@
 [stream-properties]
-Audio/Sink:node.name:auto_null={"mute":false, "channelVolumes":[1.000000, 1.000000], "channelMap":["FL", "FR"], "volume":1.000000}
+Audio/Sink:node.name:auto_null={"channelVolumes":[1.000000, 1.000000], "channelMap":["FL", "FR"], "volume":1.000000, "mute":false}
 Input/Audio:application.id:org.PulseAudio.pavucontrol={"volume":1.000000, "channelMap":["MONO"], "mute":false, "channelVolumes":[1.000000]}
 Output/Audio:application.name:Firefox={"channelVolumes":[1.000000, 1.000000], "channelMap":["FL", "FR"], "mute":false, "volume":1.000000}

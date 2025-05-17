@@ -1,0 +1,4 @@
+./clean_menu.go
+./diff_menu.go
+./edit_menu.go
+./menu.go

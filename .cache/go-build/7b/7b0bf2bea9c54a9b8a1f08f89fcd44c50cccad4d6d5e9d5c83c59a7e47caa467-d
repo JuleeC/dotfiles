@@ -1,0 +1,3 @@
+./errors.go
+./installer.go
+./pkg_archive.go

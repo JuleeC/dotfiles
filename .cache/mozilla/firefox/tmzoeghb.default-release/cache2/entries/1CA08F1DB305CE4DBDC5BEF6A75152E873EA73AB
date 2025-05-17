@@ -1,0 +1,663 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800.21666635" height="914.6664380000001" font-family="Consolas, Menlo, 'Bitstream Vera Sans Mono', monospace, 'Powerline Symbols'" font-size="14px">
+  <style>
+    .br { font-weight: bold }
+    .fa { fill-opacity: 0.5 }
+    .it { font-style: italic }
+    .un { text-decoration: underline }
+  </style>
+
+  <rect width="100%" height="100%" style="fill: #121314" rx="4" ry="4"></rect>
+
+  <svg x="8.42333333" y="9.333331000000001" class="default-text-fill">
+    <g style="shape-rendering: optimizeSpeed">
+
+        <rect x="33.69333332" y="877.333114" width="8.42333333" height="18.666662000000002" style="fill: #d9d9d9"></rect>
+
+
+    </g>
+
+    <text style="fill: #cccccc">
+      <tspan y="0.0">
+        <tspan dy="1em" x="8.42333333" style="fill: #b954e1">
+          11
+        </tspan><tspan x="42.11666665" class="br" style="fill: #4ebf22">
+          extra
+        </tspan><tspan x="84.2333333">
+          /
+        </tspan><tspan x="92.65666663" class="br">
+          shaderc
+        </tspan><tspan x="353.77999986000003">
+          2020.
+        </tspan><tspan x="395.89666651" style="fill: #dd3c69">
+          3-2
+        </tspan><tspan x="530.66999979">
+          -&gt; 2020.
+        </tspan><tspan x="598.0566664300001" style="fill: #4ebf22">
+          5-1
+        </tspan>
+      </tspan><tspan y="18.666662000000002">
+        <tspan dy="1em" x="8.42333333" style="fill: #b954e1">
+          10
+        </tspan><tspan x="42.11666665" class="br" style="fill: #4ebf22">
+          extra
+        </tspan><tspan x="84.2333333">
+          /
+        </tspan><tspan x="92.65666663" class="br">
+          solid
+        </tspan><tspan x="353.77999986000003">
+          5.
+        </tspan><tspan x="370.62666652" style="fill: #dd3c69">
+          79.0-1
+        </tspan><tspan x="530.66999979">
+          -&gt; 5.
+        </tspan><tspan x="572.78666644" style="fill: #4ebf22">
+          80.0-1
+        </tspan>
+      </tspan><tspan y="37.333324000000005">
+        <tspan dy="1em" x="16.84666666" style="fill: #b954e1">
+          9
+        </tspan><tspan x="42.11666665" class="br" style="fill: #4ebf22">
+          extra
+        </tspan><tspan x="84.2333333">
+          /
+        </tspan><tspan x="92.65666663" class="br">
+          sonnet
+        </tspan><tspan x="353.77999986000003">
+          5.
+        </tspan><tspan x="370.62666652" style="fill: #dd3c69">
+          79.0-1
+        </tspan><tspan x="530.66999979">
+          -&gt; 5.
+        </tspan><tspan x="572.78666644" style="fill: #4ebf22">
+          80.0-1
+        </tspan>
+      </tspan><tspan y="55.99998600000001">
+        <tspan dy="1em" x="16.84666666" style="fill: #b954e1">
+          8
+        </tspan><tspan x="42.11666665" class="br" style="fill: #4ebf22">
+          extra
+        </tspan><tspan x="84.2333333">
+          /
+        </tspan><tspan x="92.65666663" class="br">
+          spirv-tools
+        </tspan><tspan x="353.77999986000003">
+          2020.
+        </tspan><tspan x="395.89666651" style="fill: #dd3c69">
+          6-1
+        </tspan><tspan x="530.66999979">
+          -&gt; 2020.
+        </tspan><tspan x="598.0566664300001" style="fill: #4ebf22">
+          7-1
+        </tspan>
+      </tspan><tspan y="74.66664800000001">
+        <tspan dy="1em" x="16.84666666" style="fill: #b954e1">
+          7
+        </tspan><tspan x="42.11666665" class="br" style="fill: #4ebf22">
+          extra
+        </tspan><tspan x="84.2333333">
+          /
+        </tspan><tspan x="92.65666663" class="br">
+          thunderbird
+        </tspan><tspan x="353.77999986000003">
+          78.8.
+        </tspan><tspan x="395.89666651" style="fill: #dd3c69">
+          0-1
+        </tspan><tspan x="530.66999979">
+          -&gt; 78.8.
+        </tspan><tspan x="598.0566664300001" style="fill: #4ebf22">
+          1-1
+        </tspan>
+      </tspan><tspan y="93.33331000000001">
+        <tspan dy="1em" x="16.84666666" style="fill: #b954e1">
+          6
+        </tspan><tspan x="42.11666665" class="br" style="fill: #4ebf22">
+          extra
+        </tspan><tspan x="84.2333333">
+          /
+        </tspan><tspan x="92.65666663" class="br">
+          vlc
+        </tspan><tspan x="353.77999986000003">
+          3.0.12-
+        </tspan><tspan x="412.74333317" style="fill: #dd3c69">
+          1
+        </tspan><tspan x="530.66999979">
+          -&gt; 3.0.12-
+        </tspan><tspan x="614.90333309" style="fill: #4ebf22">
+          2
+        </tspan>
+      </tspan><tspan y="111.99997200000001">
+        <tspan dy="1em" x="16.84666666" style="fill: #b954e1">
+          5
+        </tspan><tspan x="42.11666665" class="br" style="fill: #4ebf22">
+          extra
+        </tspan><tspan x="84.2333333">
+          /
+        </tspan><tspan x="92.65666663" class="br">
+          vulkan-headers
+        </tspan><tspan x="353.77999986000003">
+          1:1.2.
+        </tspan><tspan x="404.31999984000004" style="fill: #dd3c69">
+          171-1
+        </tspan><tspan x="530.66999979">
+          -&gt; 1:1.2.
+        </tspan><tspan x="606.47999976" style="fill: #4ebf22">
+          172-1
+        </tspan>
+      </tspan><tspan y="130.66663400000002">
+        <tspan dy="1em" x="16.84666666" style="fill: #b954e1">
+          4
+        </tspan><tspan x="42.11666665" class="br" style="fill: #4ebf22">
+          extra
+        </tspan><tspan x="84.2333333">
+          /
+        </tspan><tspan x="92.65666663" class="br">
+          vulkan-icd-loader
+        </tspan><tspan x="353.77999986000003">
+          1.2.
+        </tspan><tspan x="387.47333318" style="fill: #dd3c69">
+          171-1
+        </tspan><tspan x="530.66999979">
+          -&gt; 1.2.
+        </tspan><tspan x="589.6333331" style="fill: #4ebf22">
+          172-1
+        </tspan>
+      </tspan><tspan y="149.33329600000002">
+        <tspan dy="1em" x="16.84666666" style="fill: #b954e1">
+          3
+        </tspan><tspan x="42.11666665" class="br" style="fill: #26b0d7">
+          aur
+        </tspan><tspan x="67.38666664">
+          /
+        </tspan><tspan x="75.80999997" class="br">
+          insomnia-bin
+        </tspan><tspan x="353.77999986000003">
+          2021.1.0-
+        </tspan><tspan x="429.58999983" style="fill: #dd3c69">
+          1
+        </tspan><tspan x="530.66999979">
+          -&gt; 2021.1.0-
+        </tspan><tspan x="631.74999975" style="fill: #4ebf22">
+          2
+        </tspan>
+      </tspan><tspan y="167.99995800000002">
+        <tspan dy="1em" x="16.84666666" style="fill: #b954e1">
+          2
+        </tspan><tspan x="42.11666665" class="br" style="fill: #26b0d7">
+          aur
+        </tspan><tspan x="67.38666664">
+          /
+        </tspan><tspan x="75.80999997" class="br">
+          visual-studio-code-bin
+        </tspan><tspan x="353.77999986000003">
+          1.54.
+        </tspan><tspan x="395.89666651" style="fill: #dd3c69">
+          1-1
+        </tspan><tspan x="530.66999979">
+          -&gt; 1.54.
+        </tspan><tspan x="598.0566664300001" style="fill: #4ebf22">
+          2-2
+        </tspan>
+      </tspan><tspan y="186.66662000000002">
+        <tspan dy="1em" x="16.84666666" style="fill: #b954e1">
+          1
+        </tspan><tspan x="42.11666665" class="br" style="fill: #26b0d7">
+          devel
+        </tspan><tspan x="84.2333333">
+          /
+        </tspan><tspan x="92.65666663" class="br">
+          awesome-git
+        </tspan><tspan x="353.77999986000003" style="fill: #dd3c69">
+          4.3.902.gaba1cf398-1
+        </tspan><tspan x="530.66999979">
+          -&gt; 
+        </tspan><tspan x="555.93999978" style="fill: #4ebf22">
+          latest-commit
+        </tspan>
+      </tspan><tspan y="205.33328200000003">
+        <tspan dy="1em" x="0.0" class="br" style="fill: #4ebf22">
+          ==&gt;
+        </tspan><tspan x="33.69333332">
+          Packages to exclude: (eg: &quot;1 2 3&quot;, &quot;1-3&quot;, &quot;^4&quot; or repo name)
+        </tspan>
+      </tspan><tspan y="223.99994400000003">
+        <tspan dy="1em" x="0.0" class="br" style="fill: #4ebf22">
+          ==&gt; 
+        </tspan>
+      </tspan><tspan y="242.66660600000003">
+        <tspan dy="1em" x="0.0" class="br" style="fill: #54e1b9">
+          :: 
+        </tspan><tspan x="25.269999990000002" class="br">
+          Checking for conflicts...
+        </tspan>
+      </tspan><tspan y="261.33326800000003">
+        <tspan dy="1em" x="0.0" class="br" style="fill: #54e1b9">
+          :: 
+        </tspan><tspan x="25.269999990000002" class="br">
+          Checking for inner conflicts...
+        </tspan>
+      </tspan><tspan y="279.99993">
+        <tspan dy="1em" x="0.0" class="br" style="fill: #26b0d7">
+          [Repo:105]
+        </tspan><tspan x="101.07999996000001" style="fill: #54e1b9">
+          protobuf-3.15.6-1
+        </tspan><tspan x="261.12333323" style="fill: #54e1b9">
+          zstd-1.4.9-1
+        </tspan><tspan x="379.04999985" style="fill: #54e1b9">
+          android-tools-30.0.5-3
+        </tspan><tspan x="581.20999977" style="fill: #54e1b9">
+          bcg729-1.1.1-1
+        </tspan><tspan x="715.98333305" style="fill: #54e1b9">
+          faudio-2
+        </tspan>
+      </tspan><tspan y="298.66659200000004">
+        <tspan dy="1em" x="0.0" style="fill: #54e1b9">
+          1.03.05-1
+        </tspan><tspan x="92.65666663" style="fill: #54e1b9">
+          go-2:1.16.2-1
+        </tspan><tspan x="219.00666658" style="fill: #54e1b9">
+          gradle-6.8.3-1
+        </tspan><tspan x="353.77999986000003" style="fill: #54e1b9">
+          libavif-0.9.0-1
+        </tspan><tspan x="496.97666647" style="fill: #54e1b9">
+          gnutls-3.7.1-1
+        </tspan><tspan x="631.74999975" style="fill: #54e1b9">
+          libjcat-0.1.6-1
+        </tspan><tspan x="774.94666636" style="fill: #54e1b9">
+          n
+        </tspan>
+      </tspan><tspan y="317.333254">
+        <tspan dy="1em" x="0.0" style="fill: #54e1b9">
+          pm-7.6.3-1
+        </tspan><tspan x="101.07999996000001" style="fill: #54e1b9">
+          npm-check-updates-11.3.0-1
+        </tspan><tspan x="336.9333332" style="fill: #54e1b9">
+          osinfo-db-20210312-1
+        </tspan><tspan x="522.24666646" style="fill: #54e1b9">
+          python-html5lib-1.1-6
+        </tspan><tspan x="715.98333305" style="fill: #54e1b9">
+          python-i
+        </tspan>
+      </tspan><tspan y="335.99991600000004">
+        <tspan dy="1em" x="0.0" style="fill: #54e1b9">
+          dentify-2.1.3-1
+        </tspan><tspan x="143.19666661" style="fill: #54e1b9">
+          python-importlib-metadata-3.7.2-1
+        </tspan><tspan x="438.01333316" style="fill: #54e1b9">
+          python-keyring-23.0.0-2
+        </tspan><tspan x="648.59666641" style="fill: #54e1b9">
+          python-markdown-
+        </tspan>
+      </tspan><tspan y="354.666578">
+        <tspan dy="1em" x="0.0" style="fill: #54e1b9">
+          3.3.4-1
+        </tspan><tspan x="75.80999997" style="fill: #54e1b9">
+          python-setuptools-1:54.1.1-1
+        </tspan><tspan x="328.50999987" style="fill: #54e1b9">
+          python-pyflakes-2.2.0-4
+        </tspan><tspan x="539.09333312" style="fill: #54e1b9">
+          python-pygments-2.8.1-1
+        </tspan><tspan x="749.67666637" style="fill: #54e1b9">
+          pyth
+        </tspan>
+      </tspan><tspan y="373.33324000000005">
+        <tspan dy="1em" x="0.0" style="fill: #54e1b9">
+          on-pysocks-1.7.1-4
+        </tspan><tspan x="168.4666666" style="fill: #54e1b9">
+          rubberband-1.9.1-1
+        </tspan><tspan x="336.9333332" style="fill: #54e1b9">
+          libnghttp2-1.43.0-1
+        </tspan><tspan x="513.82333313" style="fill: #54e1b9">
+          wireshark-cli-3.4.4-1
+        </tspan><tspan x="707.5599997200001" style="fill: #54e1b9">
+          wireshark
+        </tspan>
+      </tspan><tspan y="391.999902">
+        <tspan dy="1em" x="0.0" style="fill: #54e1b9">
+          -qt-3.4.4-1
+        </tspan><tspan x="109.50333329" style="fill: #54e1b9">
+          youtube-dl-2021.03.14-1
+        </tspan><tspan x="320.08666654" style="fill: #54e1b9">
+          attr-2.5.0-1
+        </tspan><tspan x="438.01333316" style="fill: #54e1b9">
+          acl-2.3.0-1
+        </tspan><tspan x="547.51666645" style="fill: #54e1b9">
+          audit-3.0.1-1
+        </tspan><tspan x="673.8666664" style="fill: #54e1b9">
+          btrfs-progs-5
+        </tspan>
+      </tspan><tspan y="410.66656400000005">
+        <tspan dy="1em" x="0.0" style="fill: #54e1b9">
+          .11-1
+        </tspan><tspan x="58.96333331" style="fill: #54e1b9">
+          cryptsetup-2.3.5-1
+        </tspan><tspan x="227.42999991" style="fill: #54e1b9">
+          dialog-1:1.3_20210306-1
+        </tspan><tspan x="438.01333316" style="fill: #54e1b9">
+          linux-5.11.6.arch1-1
+        </tspan><tspan x="623.32666642" style="fill: #54e1b9">
+          linux-headers-5.11.
+        </tspan>
+      </tspan><tspan y="429.333226">
+        <tspan dy="1em" x="0.0" style="fill: #54e1b9">
+          6.arch1-1
+        </tspan><tspan x="92.65666663" style="fill: #54e1b9">
+          sqlite-3.35.0-1
+        </tspan><tspan x="235.85333324" style="fill: #54e1b9">
+          sysfsutils-2.1.1-1
+        </tspan><tspan x="404.31999984000004" style="fill: #54e1b9">
+          systemd-libs-247.4-2
+        </tspan><tspan x="589.6333331" style="fill: #54e1b9">
+          systemd-247.4-2
+        </tspan><tspan x="732.82999971" style="fill: #54e1b9">
+          system
+        </tspan>
+      </tspan><tspan y="447.99988800000006">
+        <tspan dy="1em" x="0.0" style="fill: #54e1b9">
+          d-resolvconf-247.4-2
+        </tspan><tspan x="185.31333326" style="fill: #54e1b9">
+          systemd-sysvcompat-247.4-2
+        </tspan><tspan x="421.1666665" style="fill: #54e1b9">
+          attica-5.80.0-1
+        </tspan><tspan x="564.36333311" style="fill: #54e1b9">
+          dconf-0.40.0-1
+        </tspan><tspan x="699.13666639" style="fill: #54e1b9">
+          pango-1:1.
+        </tspan>
+      </tspan><tspan y="466.66655000000003">
+        <tspan dy="1em" x="0.0" style="fill: #54e1b9">
+          48.3-1
+        </tspan><tspan x="67.38666664" style="fill: #54e1b9">
+          iso-codes-4.6.0-1
+        </tspan><tspan x="227.42999991" style="fill: #54e1b9">
+          gtk3-1:3.24.27-4
+        </tspan><tspan x="379.04999985" style="fill: #54e1b9">
+          chromium-89.0.4389.90-1
+        </tspan><tspan x="589.6333331" style="fill: #54e1b9">
+          cmake-3.19.7-1
+        </tspan><tspan x="724.40666638" style="fill: #54e1b9">
+          firefox
+        </tspan>
+      </tspan><tspan y="485.33321200000006">
+        <tspan dy="1em" x="0.0" style="fill: #54e1b9">
+          -86.0.1-1
+        </tspan><tspan x="92.65666663" style="fill: #54e1b9">
+          gd-2.3.2-2
+        </tspan><tspan x="193.73666659" style="fill: #54e1b9">
+          git-2.30.2-1
+        </tspan><tspan x="311.66333321" style="fill: #54e1b9">
+          glslang-11.2.0-3
+        </tspan><tspan x="463.28333315000003" style="fill: #54e1b9">
+          gnome-autoar-0.3.1-1
+        </tspan><tspan x="648.59666641" style="fill: #54e1b9">
+          gptfdisk-1.0.7-1
+        </tspan>
+      </tspan><tspan y="503.99987400000003">
+        <tspan dy="1em" x="16.84666666" style="fill: #54e1b9">
+          imagemagick-7.0.11.3-1
+        </tspan><tspan x="219.00666658" style="fill: #54e1b9">
+          karchive-5.80.0-1
+        </tspan><tspan x="379.04999985" style="fill: #54e1b9">
+          kcoreaddons-5.80.0-1
+        </tspan><tspan x="564.36333311" style="fill: #54e1b9">
+          kauth-5.80.0-1
+        </tspan><tspan x="699.13666639" style="fill: #54e1b9">
+          kdbusaddon
+        </tspan>
+      </tspan><tspan y="522.6665360000001">
+        <tspan dy="1em" x="0.0" style="fill: #54e1b9">
+          s-5.80.0-1
+        </tspan><tspan x="101.07999996000001" style="fill: #54e1b9">
+          kconfig-5.80.0-1
+        </tspan><tspan x="252.6999999" style="fill: #54e1b9">
+          kwindowsystem-5.80.0-1
+        </tspan><tspan x="454.85999982" style="fill: #54e1b9">
+          kcrash-5.80.0-1
+        </tspan><tspan x="598.0566664300001" style="fill: #54e1b9">
+          kglobalaccel-5.80.0-1 
+        </tspan>
+      </tspan><tspan y="541.333198">
+        <tspan dy="1em" x="8.42333333" style="fill: #54e1b9">
+          kcodecs-5.80.0-1
+        </tspan><tspan x="160.04333327" style="fill: #54e1b9">
+          kguiaddons-5.80.0-1
+        </tspan><tspan x="336.9333332" style="fill: #54e1b9">
+          ki18n-5.80.0-1
+        </tspan><tspan x="471.70666648" style="fill: #54e1b9">
+          kwidgetsaddons-5.80.0-1
+        </tspan><tspan x="682.28999973" style="fill: #54e1b9">
+          kconfigwidge
+        </tspan>
+      </tspan><tspan y="559.99986">
+        <tspan dy="1em" x="0.0" style="fill: #54e1b9">
+          ts-5.80.0-1
+        </tspan><tspan x="109.50333329" style="fill: #54e1b9">
+          kitemviews-5.80.0-1
+        </tspan><tspan x="286.39333322" style="fill: #54e1b9">
+          kiconthemes-5.80.0-1
+        </tspan><tspan x="471.70666648" style="fill: #54e1b9">
+          kxmlgui-5.80.0-1
+        </tspan><tspan x="623.32666642" style="fill: #54e1b9">
+          kbookmarks-5.80.0-1
+        </tspan>
+      </tspan><tspan y="578.6665220000001">
+        <tspan dy="1em" x="16.84666666" style="fill: #54e1b9">
+          solid-5.80.0-1
+        </tspan><tspan x="151.61999994" style="fill: #54e1b9">
+          kjobwidgets-5.80.0-1
+        </tspan><tspan x="336.9333332" style="fill: #54e1b9">
+          knotifications-5.80.0-1
+        </tspan><tspan x="547.51666645" style="fill: #54e1b9">
+          kservice-5.80.0-1
+        </tspan><tspan x="707.5599997200001" style="fill: #54e1b9">
+          kwallet-5
+        </tspan>
+      </tspan><tspan y="597.3331840000001">
+        <tspan dy="1em" x="0.0" style="fill: #54e1b9">
+          .80.0-1
+        </tspan><tspan x="75.80999997" style="fill: #54e1b9">
+          kcompletion-5.80.0-1
+        </tspan><tspan x="261.12333323" style="fill: #54e1b9">
+          sonnet-5.80.0-1
+        </tspan><tspan x="404.31999984000004" style="fill: #54e1b9">
+          ktextwidgets-5.80.0-1
+        </tspan><tspan x="598.0566664300001" style="fill: #54e1b9">
+          kded-5.80.0-1
+        </tspan><tspan x="724.40666638" style="fill: #54e1b9">
+          kio-5.8
+        </tspan>
+      </tspan><tspan y="615.999846">
+        <tspan dy="1em" x="0.0" style="fill: #54e1b9">
+          0.1-1
+        </tspan><tspan x="58.96333331" style="fill: #54e1b9">
+          kpackage-5.80.0-1
+        </tspan><tspan x="219.00666658" style="fill: #54e1b9">
+          kdeclarative-5.80.0-1
+        </tspan><tspan x="412.74333317" style="fill: #54e1b9">
+          kcmutils-5.80.0-1
+        </tspan><tspan x="572.78666644" style="fill: #54e1b9">
+          kirigami2-5.80.0-1
+        </tspan><tspan x="741.25333304" style="fill: #54e1b9">
+          kwayl
+        </tspan>
+      </tspan><tspan y="634.666508">
+        <tspan dy="1em" x="0.0" style="fill: #54e1b9">
+          and-5.80.0-1
+        </tspan><tspan x="117.92666662" style="fill: #54e1b9">
+          libhandy-1.2.0-1
+        </tspan><tspan x="269.54666656" style="fill: #54e1b9">
+          liblouis-3.17.0-1
+        </tspan><tspan x="429.58999983" style="fill: #54e1b9">
+          libnm-1.30.2-1
+        </tspan><tspan x="564.36333311" style="fill: #54e1b9">
+          linux-zen-5.11.6.zen1-1
+        </tspan><tspan x="774.94666636" style="fill: #54e1b9">
+          l
+        </tspan>
+      </tspan><tspan y="653.33317">
+        <tspan dy="1em" x="0.0" style="fill: #54e1b9">
+          inux-zen-headers-5.11.6.zen1-1
+        </tspan><tspan x="269.54666656" style="fill: #54e1b9">
+          networkmanager-1.30.2-1
+        </tspan><tspan x="480.12999981" style="fill: #54e1b9">
+          perl-html-parser-3.76-1
+        </tspan><tspan x="690.71333306" style="fill: #54e1b9">
+          perl-libwww
+        </tspan>
+      </tspan><tspan y="671.9998320000001">
+        <tspan dy="1em" x="0.0" style="fill: #54e1b9">
+          -6.53-1
+        </tspan><tspan x="75.80999997" style="fill: #54e1b9">
+          python-astroid-2.5.1-1
+        </tspan><tspan x="277.96999989" style="fill: #54e1b9">
+          python-pylint-2.7.2-1
+        </tspan><tspan x="471.70666648" style="fill: #54e1b9">
+          qpdf-10.3.1-1
+        </tspan><tspan x="598.0566664300001" style="fill: #54e1b9">
+          rust-1:1.50.0-2
+        </tspan><tspan x="741.25333304" style="fill: #54e1b9">
+          spirv
+        </tspan>
+      </tspan><tspan y="690.6664940000001">
+        <tspan dy="1em" x="0.0" style="fill: #54e1b9">
+          -tools-2020.7-1
+        </tspan><tspan x="143.19666661" style="fill: #54e1b9">
+          shaderc-2020.5-1
+        </tspan><tspan x="294.81666655" style="fill: #54e1b9">
+          thunderbird-78.8.1-1
+        </tspan><tspan x="480.12999981" style="fill: #54e1b9">
+          vlc-3.0.12-2
+        </tspan><tspan x="598.0566664300001" style="fill: #54e1b9">
+          vulkan-headers-1:1.2.1
+        </tspan>
+      </tspan><tspan y="709.333156">
+        <tspan dy="1em" x="0.0" style="fill: #54e1b9">
+          72-1
+        </tspan><tspan x="50.539999980000005" style="fill: #54e1b9">
+          vulkan-icd-loader-1.2.172-1
+        </tspan>
+      </tspan><tspan y="727.999818">
+        <tspan dy="1em" x="0.0" class="br" style="fill: #26b0d7">
+          [Aur:3]
+        </tspan><tspan x="75.80999997" style="fill: #54e1b9">
+          insomnia-bin-2021.1.0-2
+        </tspan><tspan x="286.39333322" style="fill: #54e1b9">
+          visual-studio-code-bin-1.54.2-2
+        </tspan><tspan x="564.36333311" style="fill: #54e1b9">
+          awesome-git-4.3.862.g7a759
+        </tspan>
+      </tspan><tspan y="746.6664800000001">
+        <tspan dy="1em" x="0.0" style="fill: #54e1b9">
+          432d-1
+        </tspan>
+      </tspan><tspan y="783.999804">
+        <tspan dy="1em" x="16.84666666" style="fill: #b954e1">
+          3
+        </tspan><tspan x="33.69333332" class="br">
+          insomnia-bin
+        </tspan><tspan x="311.66333321" class="br" style="fill: #4ebf22">
+          (Installed) (Build Files Exist)
+        </tspan>
+      </tspan><tspan y="802.666466">
+        <tspan dy="1em" x="16.84666666" style="fill: #b954e1">
+          2
+        </tspan><tspan x="33.69333332" class="br">
+          visual-studio-code-bin
+        </tspan><tspan x="311.66333321" class="br" style="fill: #4ebf22">
+          (Installed) (Build Files Exist)
+        </tspan>
+      </tspan><tspan y="821.3331280000001">
+        <tspan dy="1em" x="16.84666666" style="fill: #b954e1">
+          1
+        </tspan><tspan x="33.69333332" class="br">
+          awesome-git
+        </tspan><tspan x="311.66333321" class="br" style="fill: #4ebf22">
+          (Installed) (Build Files Exist)
+        </tspan>
+      </tspan><tspan y="839.9997900000001">
+        <tspan dy="1em" x="0.0" class="br" style="fill: #4ebf22">
+          ==&gt;
+        </tspan><tspan x="33.69333332">
+          Packages to cleanBuild?
+        </tspan>
+      </tspan><tspan y="858.666452">
+        <tspan dy="1em" x="0.0" class="br" style="fill: #4ebf22">
+          ==&gt;
+        </tspan><tspan x="33.69333332" style="fill: #54e1b9">
+          [N]one
+        </tspan><tspan x="92.65666663">
+          [A]ll [Ab]ort [I]nstalled [No]tInstalled or (1 2 3, 1-3, ^4)
+        </tspan>
+      </tspan><tspan y="877.333114">
+        <tspan dy="1em" x="0.0" class="br" style="fill: #4ebf22">
+          ==&gt; 
+        </tspan>
+      </tspan>
+    </text>
+  </svg>
+
+  <g transform="translate(-40 -40)">
+    <svg x="50%" y="50%" width="80" height="80">
+      <svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000.0 1000.0" style="filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.4))">
+  <defs>
+    <mask id="small-triangle-mask">
+      <rect width="100%" height="100%" fill="white"></rect>
+      <polygon points="700.0 500.0, 400.00000000000006 326.7949192431122, 399.9999999999999 673.2050807568877" fill="black">
+      </polygon>
+    </mask>
+  </defs>
+  <polygon points="1000.0 500.0, 250.0000000000001 66.98729810778059, 249.99999999999977 933.0127018922192" mask="url(#small-triangle-mask)" fill="white">
+  </polygon>
+  <polyline points="673.2050807568878 400.0, 326.7949192431123 600.0" stroke="white" stroke-width="90">
+  </polyline>
+</svg>
+    </svg>
+  </g>
+</svg>èà.lÑ<      h(◊“h(◊“H3lIh(nü   —    O^partitionKey=%28https%2Cgithub.com%29,:https://camo.githubusercontent.com/4d0fbe5b5c8975ae68d59d3398dd729694bed716e99b3c416fe747afceea99c6/68747470733a2f2f61736369696e656d612e6f72672f612f3339393433312e737667 strongly-framed 1 security-info FnhllAKWRHGAlo+ESXykKAAAAAAAAAAAwAAAAAAAAEaphjojH6pBabDSgSnsfLHeAAAAAgAAAAAAAAAAAAAAAAAAAAEAOQFmCjImkVxP+7sgiYWmMt8FvcOXmlQiTNWFiWlrbpbqgwAAAAAAAAaJMIIGhTCCBW2gAwIBAgIRAJB3NEFHMW75lZl2eur98bkwDQYJKoZIhvcNAQELBQAwgY8xCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAOBgNVBAcTB1NhbGZvcmQxGDAWBgNVBAoTD1NlY3RpZ28gTGltaXRlZDE3MDUGA1UEAxMuU2VjdGlnbyBSU0EgRG9tYWluIFZhbGlkYXRpb24gU2VjdXJlIFNlcnZlciBDQTAeFw0yNTAzMDcwMDAwMDBaFw0yNjAzMDcyMzU5NTlaMBYxFDASBgNVBAMMCyouZ2l0aHViLmlvMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxKQLElVmJYKnZ9dmKMWrb4fy4BWFm658EQemS4hJgrt+1NFpL2tGVaFupVyV3vmKorCX3zejc7+gH8Ugpemmj9r5tk1NZ0SXXALTjvT2i03oSqjwCzkn+R1o0TYg+G7PyQ5pE18AE+K3VUcpch1f5RyBTEvE4+HUg4/6OpAIYFVznJ3yk8a+bo1i/HBp2MbtPzssSlT8mPLY76SETtKdwgIdY91MkTiJd1x0KJDM2GPKM7pNTc81NMSw6WBzsxg4PFbR+BCY82/sYu8iMy/AdYcUz72hh2DGXnVypzzV/LLgJ/VAP5m+md0lVH5KIG/cduDrajloLQ4LKJktO4VmwQIDAQABo4IDUjCCA04wHwYDVR0jBBgwFoAUjYxexFStiuF36Zv5mwXhuAGNYeEwHQYDVR0OBBYEFBLwftAxb+SvNbWJ+0LZ7bcLk80EMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBJBgNVHSAEQjBAMDQGCysGAQQBsjEBAgIHMCUwIwYIKwYBBQUHAgEWF2h0dHBzOi8vc2VjdGlnby5jb20vQ1BTMAgGBmeBDAECATCBhAYIKwYBBQUHAQEEeDB2ME8GCCsGAQUFBzAChkNodHRwOi8vY3J0LnNlY3RpZ28uY29tL1NlY3RpZ29SU0FEb21haW5WYWxpZGF0aW9uU2VjdXJlU2VydmVyQ0EuY3J0MCMGCCsGAQUFBzABhhdodHRwOi8vb2NzcC5zZWN0aWdvLmNvbTCCAX4GCisGAQQB1nkCBAIEggFuBIIBagFoAHYAlpdkv1VYl633Q4doNwhCd+nwOtX2pPM2bkakPw/KqcYAAAGVbeysdQAABAMARzBFAiEA+YIgsAqb2cqQVlF4JP2ERIVCH3RXdB7DjIPc6Ch5aK4CIHjqUoV7F5MkfcIQcmdn7Z5UR8nYtPA2OLvYc3mCFcLuAHcAGYbUxyiqb/66A294Kk0BkarOLXIxD67OXXBBLSVMx9QAAAGVbeysDgAABAMASDBGAiEAjryAbXlHsXj/v4f7CWXJzDUXSUuvA5kRH3doh4WPUQcCIQC+nojCqhCn/ZupbnI50O1T3FSKBQu/LOZ33fApzLJWhQB1AMs49xWJfIShRF9bwd37yW7ymlnNRwppBYWwyxTDFFjnAAABlW3srDcAAAQDAEYwRAIgS98L1D2W8nzV3tIQ0R4UJWxwxb7I/TT6e9ly0nA0QsACIFpl7s/WA1Qmz1Vm8ZtihoNFubO/AiiaVGaeDQiznHFCMHsGA1UdEQR0MHKCCyouZ2l0aHViLmlvggwqLmdpdGh1Yi5jb22CFyouZ2l0aHVidXNlcmNvbnRlbnQuY29tggpnaXRodWIuY29tgglnaXRodWIuaW+CFWdpdGh1YnVzZXJjb250ZW50LmNvbYIOd3d3LmdpdGh1Yi5jb20wDQYJKoZIhvcNAQELBQADggEBAHksjTVCptW9CtbBXu+7J2cDDmKRz/EAkUyONuojOnKoI3d2f5DQDkqzu/gSj6B28YO3a4EYFktvwq3KnXAu9KzSM1ehlhtAlxlvjjGUgXvux7DjnBH40ItKiE723opeWVbm2WExdRPSckm/CDwshz2U3Sl3M3Wtv0xPuZJrg1tMIL58RqrS5PpFlAIIlEUC6dr+xVQrwLNcYXVVgvZsRSX/YbrzboLMgWhuDSQPcaeDGHcy7NxRZHmlpHz+/Ot067VuxjGqm9veKNGZMUdroS+ocxAJBXv3Z1NCCowvpZazNxKccQg7izYwd6HL70WMxCWFU0e70uw9KZqteG7SVcQTAQAEAAAAAAABAQAABQAAAA5tbGtlbTc2OHgyNTUxOQAAAA5SU0EtUFNTLVNIQTI1NgADZgoyJpFcT/u7IImFpjLfBb3Dl5pUIkzVhYlpa26W6oMAAAAAAAAGiTCCBoUwggVtoAMCAQICEQCQdzRBRzFu+ZWZdnrq/fG5MA0GCSqGSIb3DQEBCwUAMIGPMQswCQYDVQQGEwJHQjEbMBkGA1UECBMSR3JlYXRlciBNYW5jaGVzdGVyMRAwDgYDVQQHEwdTYWxmb3JkMRgwFgYDVQQKEw9TZWN0aWdvIExpbWl0ZWQxNzA1BgNVBAMTLlNlY3RpZ28gUlNBIERvbWFpbiBWYWxpZGF0aW9uIFNlY3VyZSBTZXJ2ZXIgQ0EwHhcNMjUwMzA3MDAwMDAwWhcNMjYwMzA3MjM1OTU5WjAWMRQwEgYDVQQDDAsqLmdpdGh1Yi5pbzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMSkCxJVZiWCp2fXZijFq2+H8uAVhZuufBEHpkuISYK7ftTRaS9rRlWhbqVcld75iqKwl983o3O/oB/FIKXppo/a+bZNTWdEl1wC04709otN6Eqo8As5J/kdaNE2IPhuz8kOaRNfABPit1VHKXIdX+UcgUxLxOPh1IOP+jqQCGBVc5yd8pPGvm6NYvxwadjG7T87LEpU/Jjy2O+khE7SncICHWPdTJE4iXdcdCiQzNhjyjO6TU3PNTTEsOlgc7MYODxW0fgQmPNv7GLvIjMvwHWHFM+9oYdgxl51cqc81fyy4Cf1QD+ZvpndJVR+SiBv3Hbg62o5aC0OCyiZLTuFZsECAwEAAaOCA1IwggNOMB8GA1UdIwQYMBaAFI2MXsRUrYrhd+mb+ZsF4bgBjWHhMB0GA1UdDgQWBBQS8H7QMW/krzW1iftC2e23C5PNBDAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwSQYDVR0gBEIwQDA0BgsrBgEEAbIxAQICBzAlMCMGCCsGAQUFBwIBFhdodHRwczovL3NlY3RpZ28uY29tL0NQUzAIBgZngQwBAgEwgYQGCCsGAQUFBwEBBHgwdjBPBggrBgEFBQcwAoZDaHR0cDovL2NydC5zZWN0aWdvLmNvbS9TZWN0aWdvUlNBRG9tYWluVmFsaWRhdGlvblNlY3VyZVNlcnZlckNBLmNydDAjBggrBgEFBQcwAYYXaHR0cDovL29jc3Auc2VjdGlnby5jb20wggF+BgorBgEEAdZ5AgQCBIIBbgSCAWoBaAB2AJaXZL9VWJet90OHaDcIQnfp8DrV9qTzNm5GpD8PyqnGAAABlW3srHUAAAQDAEcwRQIhAPmCILAKm9nKkFZReCT9hESFQh90V3Qew4yD3OgoeWiuAiB46lKFexeTJH3CEHJnZ+2eVEfJ2LTwNji72HN5ghXC7gB3ABmG1Mcoqm/+ugNveCpNAZGqzi1yMQ+uzl1wQS0lTMfUAAABlW3srA4AAAQDAEgwRgIhAI68gG15R7F4/7+H+wllycw1F0lLrwOZER93aIeFj1EHAiEAvp6IwqoQp/2bqW5yOdDtU9xUigULvyzmd93wKcyyVoUAdQDLOPcViXyEoURfW8Hd+8lu8ppZzUcKaQWFsMsUwxRY5wAAAZVt7Kw3AAAEAwBGMEQCIEvfC9Q9lvJ81d7SENEeFCVscMW+yP00+nvZctJwNELAAiBaZe7P1gNUJs9VZvGbYoaDRbmzvwIomlRmng0Is5xxQjB7BgNVHREEdDByggsqLmdpdGh1Yi5pb4IMKi5naXRodWIuY29tghcqLmdpdGh1YnVzZXJjb250ZW50LmNvbYIKZ2l0aHViLmNvbYIJZ2l0aHViLmlvghVnaXRodWJ1c2VyY29udGVudC5jb22CDnd3dy5naXRodWIuY29tMA0GCSqGSIb3DQEBCwUAA4IBAQB5LI01QqbVvQrWwV7vuydnAw5ikc/xAJFMjjbqIzpyqCN3dn+Q0A5Ks7v4Eo+gdvGDt2uBGBZLb8Ktyp1wLvSs0jNXoZYbQJcZb44xlIF77sew45wR+NCLSohO9t6KXllW5tlhMXUT0nJJvwg8LIc9lN0pdzN1rb9MT7mSa4NbTCC+fEaq0uT6RZQCCJRFAuna/sVUK8CzXGF1VYL2bEUl/2G6826CzIFobg0kD3Gngxh3MuzcUWR5paR8/vzrdOu1bsYxqpvb3ijRmTFHa6EvqHMQCQV792dTQgqML6WWszcSnHEIO4s2MHehy+9FjMQlhVNHu9LsPSmarXhu0lXEZgoyJpFcT/u7IImFpjLfBb3Dl5pUIkzVhYlpa26W6oMAAAAAAAAGFzCCBhMwggP7oAMCAQICEH1bUSa0droR23QWC7xTDacwDQYJKoZIhvcNAQEMBQAwgYgxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpOZXcgSmVyc2V5MRQwEgYDVQQHEwtKZXJzZXkgQ2l0eTEeMBwGA1UEChMVVGhlIFVTRVJUUlVTVCBOZXR3b3JrMS4wLAYDVQQDEyVVU0VSVHJ1c3QgUlNBIENlcnRpZmljYXRpb24gQXV0aG9yaXR5MB4XDTE4MTEwMjAwMDAwMFoXDTMwMTIzMTIzNTk1OVowgY8xCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAOBgNVBAcTB1NhbGZvcmQxGDAWBgNVBAoTD1NlY3RpZ28gTGltaXRlZDE3MDUGA1UEAxMuU2VjdGlnbyBSU0EgRG9tYWluIFZhbGlkYXRpb24gU2VjdXJlIFNlcnZlciBDQTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBANZzM9bXPCDQANIXRbjWPgeiP8dB7jIwybBs/fSfyxKYDy0/jU0BDIIPF39iLum4SHn7FoNOrdcyJZO3B7+5UD+pTMNAKuk5/9mByh8WMkHagCa5I3qHIB7j/yCaPJVEb4d1BpBAtDKTFgkQCCM+0t2HD29dURRqCmnFTwFyac/Tk0xtBKCjG4J+sZq57cWexTd4n5oINPtWLljECQ4GZFu8N9zxnyhoqFawkqNcn7uImAgbJB2rMIWur7AunnqdwcBCHOIC8OrgStLvkA60wUAW8G+FQkpk96QwoP6/LqMnWo6LWLitwxkXhGPtb1b9g8tgNMR0vuad2+Hk5coMXxUCAwEAAaOCAW4wggFqMB8GA1UdIwQYMBaAFFN5v1qqK0rPVIDh2JvAnfKyA2bLMB0GA1UdDgQWBBSNjF7EVK2K4Xfpm/mbBeG4AY1h4TAOBgNVHQ8BAf8EBAMCAYYwEgYDVR0TAQH/BAgwBgEB/wIBADAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwGwYDVR0gBBQwEjAGBgRVHSAAMAgGBmeBDAECATBQBgNVHR8ESTBHMEWgQ6BBhj9odHRwOi8vY3JsLnVzZXJ0cnVzdC5jb20vVVNFUlRydXN0UlNBQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcmwwdgYIKwYBBQUHAQEEajBoMD8GCCsGAQUFBzAChjNodHRwOi8vY3J0LnVzZXJ0cnVzdC5jb20vVVNFUlRydXN0UlNBQWRkVHJ1c3RDQS5jcnQwJQYIKwYBBQUHMAGGGWh0dHA6Ly9vY3NwLnVzZXJ0cnVzdC5jb20wDQYJKoZIhvcNAQEMBQADggIBADK/Yb0OSMNPx7pHTficeBkB3BMdgG/8w3C0UpoxM5pXUvsxnmuk71SqiY1AF2j4ERB80sqx8VWGx+6zNpGG9jlRv0a/D6C6tPd+ScQqNhee5Gg5eq+UTlZvsns7vwqGvc3FdxwDuDixoh9fftuK3EZItmgKz7K1tOI05GepOGYJXtK4/J0oOhdAJ8JyTin9ITx8zxP7lizFMUT9E+3Vm6lpaHd87uH/pPk2OAhTOaKENJwZ874OrNUkN+sjqHjQ0+fvkkdkYjki78b3Eb4ihcZmRCQmjhAyjciTrgeegz4v2fn1Ro5jvsHmtNymzSGohgqV2S6FJhr9/LG2V0JtldEz9jkUBoJBOPWPWNyAW6TVfZV4/aeb//3FqGmrJuenpAWHW6m3uKMgC5epRYXds4vliTeOKQ38Bhf2OEAOQuQSBvt788YRaGLf45j0E9gVT4uxadkQYLxkKuoxt+S1ozoUmybjC3v9Ao62mcE4l1k29qh0ooa2XuvGZOrPoKP5bp66LRG2hpgIWC3JrCVk8l51tDjBrn9aRoPqUcq28ZkRNWulanvGALDn+L5ksq3IwvGs41HqpJPgecjhgUDJClvhEjzBYCrjl8CJQsqUz0aYEmm7mNDC0w1yS0du5ZPEMihjh0PksDI+CtNLvyObFClBK5oEH5Mt8cc5SDytWhJ/ZgoyJpFcT/u7IImFpjLfBb3Dl5pUIkzVhYlpa26W6oMAAAAAAAAF4jCCBd4wggPGoAMCAQICEAH9bTD8o8pRqBu8ZA41Ay0wDQYJKoZIhvcNAQEMBQAwgYgxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpOZXcgSmVyc2V5MRQwEgYDVQQHEwtKZXJzZXkgQ2l0eTEeMBwGA1UEChMVVGhlIFVTRVJUUlVTVCBOZXR3b3JrMS4wLAYDVQQDEyVVU0VSVHJ1c3QgUlNBIENlcnRpZmljYXRpb24gQXV0aG9yaXR5MB4XDTEwMDIwMTAwMDAwMFoXDTM4MDExODIzNTk1OVowgYgxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpOZXcgSmVyc2V5MRQwEgYDVQQHEwtKZXJzZXkgQ2l0eTEeMBwGA1UEChMVVGhlIFVTRVJUUlVTVCBOZXR3b3JrMS4wLAYDVQQDEyVVU0VSVHJ1c3QgUlNBIENlcnRpZmljYXRpb24gQXV0aG9yaXR5MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAgBJlFzYOw9sIs9CsVw127c0n00ytUINh4qogTQktZAnczomfzD2p7PbPwdzx07HWezcoEStH2jnGvDoZtF+mvX2do2NCtnbyqTsrkfjib9DsFiCQCT7i6HTJGLSR1GJk23+jBvGIGGqQIjy8/hPwhxR79uQfjtTkUcYRZ0YIUcuGFFQ/vDP+fmyc/xadGL1RjjWmp2bIcmfbIWax1Jt4A8BQOujM8Ny8nkz+rwWWNR9XWrf/zvk9tyy29lTdyOcSOk2uTIq3XJq0tyA9yn8iNK5+O2hmAUTnAU5GU5szYPeUvlM3kHND8zLDU+/bqv50TmnHa4xgk97Exwzf4TKuzJM7UXiVZ4vuPVb+DNBpDxsP8yUmazNt925H+nND5X4OpWaxKXwyhGNVicQNwZNUMBkTrNN9N6frXTpsNVzbQdcS2qlJC9/YgIoJk2KOtWbPJYjNhLixP6Q5D9kCnusSTJV882sFqV4Wg8y4Z+LoE53MW4LTTLPtW//e5XOsIzstAL81VXQJSdhJWBp/kjbmUZIO8yZ9HE0XvMnsQybQv0FfQKlERPSZ51eHnlAfV1SoPv10Yy+xUGUJ5lhCLkMaTLTwJUdZ+gQek9QmRkpQgbLevni3/GcV4clXhB4PY9bpYrrWX1Uu6lzGKAgEJTm4Diup8kyXHAc/DVL17e8vgg8CAwEAAaNCMEAwHQYDVR0OBBYEFFN5v1qqK0rPVIDh2JvAnfKyA2bLMA4GA1UdDwEB/wQEAwIBBjAPBgNVHRMBAf8EBTADAQH/MA0GCSqGSIb3DQEBDAUAA4ICAQBc1HwNz/cBfUGZZQxzxVKfy/jPmQZ/G9pDFZ+eAlVXlhTxUjwnh5Qo7R86ATeidvxTUMCEm8ZrTrqMIU+ijlVikfNpFdi8iOPEqgv976jpS1UqBiBtVXgpGe5fMFxLJBFV/ySabl4qK+4LTZ9/9wE4lBSVQwcJ+2Cp7hyrEoygml6nmGpZbYs/CPvI0UWvGBVkkBIPcyguxeIkTvxY7PD0Rf4is+svjtLZRWEFwZdvqHZyj4uMNq+/DQXOcY3mpm8fbKZxYsXY0INyDPFnEYkMnBNMcjTfvNVx36px3eG5bIw8El1l2r1XErZDa//l3k1mEVHPma7sF7bocZGM3kn+3TVxohUnlBzPYeMmu2+jZyUhXebdHQsuaBs7gq/sg2eF1JhRdLG5mYCJ/394GVx5SmAukkCuTDcqLMnHYsgOXfc2W8rgJSUBtN0aB5x3AD/Q3NXsPdT6uz/MhdZvf6kt37kC9/WXmrU12sNnsIdKqSieI47/XCdr4bBP8wfuAC7UWYfLUkGV6vRH1+5kQVV8jVkCld1incK57loodISlm7eQxwwH3/WJNnQy1ijBsLAL4JxMwxzW/ONptUdGgS+igqvTY0RwxI3/LTO6rY97tXCIrj4Zz0Ao2PzIkLtdmSL1UuZYxR+IMUPuiB3Xxo48Q2odpxjefT0W8WL5ypCo/QAAAAEAAAACaDIBAQAAAABXdGxzZmxhZ3MweDAwMDAwMDAwOmNhbW8uZ2l0aHVidXNlcmNvbnRlbnQuY29tOjQ0M15wYXJ0aXRpb25LZXk9JTI4aHR0cHMlMkNnaXRodWIuY29tJTI5AAA= request-method GET request-Accept-Encoding gzip, deflate, br, zstd response-head HTTP/2 200 
+cache-control: public, max-age=3600, must-revalidate
+content-security-policy: default-src 'none'; img-src data:; style-src 'unsafe-inline'
+content-type: image/svg+xml; charset=utf-8
+strict-transport-security: max-age=31536000; includeSubDomains
+x-content-type-options: nosniff
+x-frame-options: deny
+x-xss-protection: 1; mode=block
+server: github.com
+x-github-request-id: 9B8E:A2097:BE6A25:D39B68:6828608F
+fastly-restarts: 1
+accept-ranges: bytes
+date: Sat, 17 May 2025 10:10:24 GMT
+via: 1.1 varnish
+age: 0
+x-served-by: cache-vie6377-VIE
+x-cache: MISS
+x-cache-hits: 0
+x-timer: S1747476624.595290,VS0,VE734
+vary: Accept-Encoding
+x-fastly-request-id: 7b3e023c79cda8e932c0d241cff0647bc89d6286
+timing-allow-origin: https://github.com
+content-length: 24257
+X-Firefox-Spdy: h2
+ original-response-headers cache-control: public, max-age=3600, must-revalidate
+content-security-policy: default-src 'none'; img-src data:; style-src 'unsafe-inline'
+content-type: image/svg+xml; charset=utf-8
+strict-transport-security: max-age=31536000; includeSubDomains
+x-content-type-options: nosniff
+x-frame-options: deny
+x-xss-protection: 1; mode=block
+server: github.com
+x-github-request-id: 9B8E:A2097:BE6A25:D39B68:6828608F
+fastly-restarts: 1
+accept-ranges: bytes
+date: Sat, 17 May 2025 10:10:24 GMT
+via: 1.1 varnish
+age: 0
+x-served-by: cache-vie6377-VIE
+x-cache: MISS
+x-cache-hits: 0
+x-timer: S1747476624.595290,VS0,VE734
+vary: Accept-Encoding
+x-fastly-request-id: 7b3e023c79cda8e932c0d241cff0647bc89d6286
+timing-allow-origin: https://github.com
+content-length: 24257
+X-Firefox-Spdy: h2
+ ctid 3 net-response-time-onstart 822 net-response-time-onstop 828   ^¡

@@ -2,6 +2,8 @@
 .cache/
 .gnupg/
 .local/
+.ssh/
+.vim/
 Downloads/
 Projects/
 yay/

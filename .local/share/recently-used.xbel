@@ -33,4 +33,14 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/julee/Downloads/1Vw7uxjs.html" added="2025-05-18T19:30:26.215496Z" modified="2025-05-18T19:30:26.215499Z" visited="2025-05-18T19:30:26.215496Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-zerosize"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-05-18T19:30:26.215497Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>

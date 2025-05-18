@@ -1,3 +1,3 @@
 # dotfiles
 looks shit
-__test message__
+test message

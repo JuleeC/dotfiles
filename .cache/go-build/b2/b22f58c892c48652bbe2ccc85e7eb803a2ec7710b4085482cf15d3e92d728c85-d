@@ -1,8 +1,0 @@
-./aur_warnings.go
-./errors.go
-./filter.go
-./metric.go
-./query_builder.go
-./source.go
-./types.go
-./version_diff.go

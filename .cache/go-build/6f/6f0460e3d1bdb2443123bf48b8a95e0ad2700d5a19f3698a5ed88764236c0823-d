@@ -1,5 +1,0 @@
-./args.go
-./config.go
-./dirs.go
-./errors.go
-./migrations.go

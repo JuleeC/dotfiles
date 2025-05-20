@@ -2,6 +2,18 @@
     "modules-left": ["hyprland/workspaces", "hyprland/window"],
     "modules-center": ["clock", "idle_inhibitor"],
     "modules-right": ["tray" , "pulseaudio", "custom/power"],
+    "hyprland/workspaces": {
+	"format": "{icon}",
+        "format-icons": {
+                "active": "",
+                "default": "",
+                "empty": ""
+            }
+    },
+            "persistent-workspaces": {
+                "*": [ 1,2,3,4,5 ]
+            },
+	     
     "hyprland/window": {
 	"format":"{initialTitle}",
 	"rewrite": {

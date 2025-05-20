@@ -17,8 +17,8 @@
     "hyprland/window": {
 	"format":"{initialTitle}",
 	"rewrite": {
-		"(.*) - Mozilla Firefox": "🌎 $1",
-		"(.*) - zsh": "> [$1]"
+		"Mozilla Firefox": ">🌎 $1",
+		"kitty":">term"
 	}
     },
     "sway/mode": {

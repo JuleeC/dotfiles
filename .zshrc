@@ -26,3 +26,4 @@ source $ZSH/oh-my-zsh.sh
 # cd ~
 
 
+alias neofetch="neofetch --ascii ~/.config/neofetch/ascii"

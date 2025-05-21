@@ -43,4 +43,34 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/julee/wallpaper.png" added="2025-05-21T18:36:27.697474Z" modified="2025-05-21T18:36:27.697488Z" visited="2025-05-21T18:36:27.697476Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-05-21T18:36:27.697480Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/julee/Downloads/Windows_Logo.jpg.jpg" added="2025-05-21T18:37:36.096473Z" modified="2025-05-21T18:37:46.032523Z" visited="2025-05-21T18:37:36.096475Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-05-21T18:37:46.032519Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/julee/Downloads/htl.jpg" added="2025-05-21T18:41:13.358957Z" modified="2025-05-21T18:41:20.556827Z" visited="2025-05-21T18:41:13.358958Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-05-21T18:41:20.556825Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>

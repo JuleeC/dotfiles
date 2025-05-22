@@ -27,3 +27,4 @@ source $ZSH/oh-my-zsh.sh
 
 
 alias neofetch="neofetch --ascii ~/.config/neofetch/ascii"
+alias vim="nvim"

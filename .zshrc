@@ -17,7 +17,7 @@ source $ZSH/oh-my-zsh.sh
 
 # User configuration
 #if command -v tmux &> /dev/null && [ -z "$TMUX" ] && [ -n = "PSI"]; then
-#  tmux attach-session -t default || tmux new-session -s default
+# "tmux attach-session -t default || tmux new-session -s default
 #fi
 
 #auto sugget

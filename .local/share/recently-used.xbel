@@ -73,4 +73,14 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/julee/Downloads/wallhaven-5w95g3_1920x1080.png" added="2025-05-22T14:43:37.142973Z" modified="2025-05-22T14:43:37.142977Z" visited="2025-05-22T14:43:37.142974Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-05-22T14:43:37.142975Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>

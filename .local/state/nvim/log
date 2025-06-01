@@ -1,1 +1,2 @@
 ERR 2025-05-22T14:16:47.280 ui.2673    tui_stop:617: TUI already stopped (race?)
+ERR 2025-05-23T22:02:54.228 ui.2554    tui_stop:617: TUI already stopped (race?)

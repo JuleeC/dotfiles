@@ -20,12 +20,7 @@ return require('packer').startup(function(use)
   use ('ThePrimeagen/harpoon') 
   use ('mbbill/undotree') 
   use ('tpope/vim-fugitive') 
-  use({
-    "stevearc/oil.nvim",
-    config = function()
-      require("oil").setup()
-    end,
-  })
+  use({"stevearc/oil.nvim"})
   
   use {
 	  "VonHeikemen/lsp-zero.nvim",
@@ -48,9 +43,11 @@ return require('packer').startup(function(use)
 		  {"L3MON4D3/LuaSnip"},
 		  {"rafamadriz/friendly-snippets"},
 	  }
+      
   }
  
 end)
+
 
 
 

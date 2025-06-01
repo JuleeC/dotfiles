@@ -25,6 +25,6 @@ source $ZSH/oh-my-zsh.sh
 #starting directory
 # cd ~
 
-
+alias ls="ls --color"
 alias neofetch="neofetch --ascii ~/.config/neofetch/ascii"
 alias vim="nvim"

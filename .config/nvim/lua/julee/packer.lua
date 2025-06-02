@@ -23,7 +23,12 @@ return require('packer').startup(function(use)
   use ('tpope/vim-fugitive') 
   --file explorer
   use({"stevearc/oil.nvim"})
+  use({"nvim-lua/plenary.nvim"})
   
+  use {
+  "startup-nvim/startup.nvim",
+  requires = {"nvim-telescope/telescope.nvim", "nvim-lua/plenary.nvim", "nvim-telescope/telescope-file-browser.nvim"},
+  }
   use {
 	  "VonHeikemen/lsp-zero.nvim",
 	  branch = "v1.x",

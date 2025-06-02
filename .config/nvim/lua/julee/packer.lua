@@ -24,7 +24,7 @@ return require('packer').startup(function(use)
   use {
     'stevearc/oil.nvim',
     config = function()
-      require('after/plugin.oil')  -- Assuming oil.lua is in lua/config/
+      require('after/plugin.oil')     
     end
   }
   use {

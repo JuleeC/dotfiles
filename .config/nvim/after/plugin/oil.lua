@@ -20,7 +20,10 @@ require("oil").setup({
     border = "rounded",
     win_options = {
       winblend = 10,
-    },
+  },
+  keymaps = {
+  }
+    
 }})
 
 -- Keymap to open Oil

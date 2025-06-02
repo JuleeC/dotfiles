@@ -24,7 +24,7 @@ return require('packer').startup(function(use)
   --file explorer
   use({"stevearc/oil.nvim"})
   use({"nvim-lua/plenary.nvim"})
-  
+ 
   use {
   "startup-nvim/startup.nvim",
   requires = {"nvim-telescope/telescope.nvim", "nvim-lua/plenary.nvim", "nvim-telescope/telescope-file-browser.nvim"},

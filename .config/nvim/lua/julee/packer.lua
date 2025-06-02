@@ -19,7 +19,8 @@ return require('packer').startup(function(use)
   use ('mbbill/undotree') 
   use ('tpope/vim-fugitive') 
   use({"nvim-lua/plenary.nvim"})
-  use 'nvim-tree/nvim-web-devicons' -- Recommended for icons
+  use('nvim-tree/nvim-web-devicons') -- Recommended for icons
+  use('feline-nvim/feline.nvim')
   use {
     'stevearc/oil.nvim',
     config = function()

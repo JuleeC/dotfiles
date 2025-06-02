@@ -3,6 +3,7 @@
 -- Setup Oil
 require("oil").setup({
   default_file_explorer = true,
+  use_default_keymaps = false,
   view_options = {
     show_hidden = true,
   },
@@ -24,4 +25,5 @@ require("oil").setup({
 
 -- Keymap to open Oil
 vim.keymap.set("n", "<leader>o", require("oil").open, { desc = "Open parent directory with Oil" })
+vim.keymap.set("n", "<leader>pv", require("oil").open, { desc = "Open Oil file explorer" })
 

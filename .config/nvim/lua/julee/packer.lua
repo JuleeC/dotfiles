@@ -21,7 +21,6 @@ return require('packer').startup(function(use)
   use ('ThePrimeagen/harpoon') 
   use ('mbbill/undotree') 
   use ('tpope/vim-fugitive') 
-  --file explorer
   use({"stevearc/oil.nvim"})
   use({"nvim-lua/plenary.nvim"})
  

@@ -1,5 +1,5 @@
 -- lua/config/oil.lua
-
+print("oil")
 -- Setup Oil
 require("oil").setup({
   default_file_explorer = true,

@@ -2,7 +2,7 @@
 -- Setup Oil
 require("oil").setup({
   default_file_explorer = true,
-  use_default_keymaps = false,
+  use_default_keymaps =true ,
   view_options = {
     show_hidden = true,
   },
@@ -21,6 +21,7 @@ require("oil").setup({
       winblend = 10,
   },
   keymaps = {
+       ["<leader>a"] = "actions.create",
   }
     
 }})

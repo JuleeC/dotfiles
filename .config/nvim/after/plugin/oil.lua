@@ -21,7 +21,6 @@ require("oil").setup({
       winblend = 10,
   },
   keymaps = {
-       ["<leader>a"] = "actions.create",
   }
     
 }})
@@ -29,4 +28,5 @@ require("oil").setup({
 -- Keymap to open Oil
 vim.keymap.set("n", "<leader>o", require("oil").open, { desc = "Open parent directory with Oil" })
 vim.keymap.set("n", "<leader>pv", require("oil").open, { desc = "Open Oil file explorer" })
+
 

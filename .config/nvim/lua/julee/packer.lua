@@ -21,12 +21,7 @@ return require('packer').startup(function(use)
   use({"nvim-lua/plenary.nvim"})
   use('nvim-tree/nvim-web-devicons') -- Recommended for icons
   use('feline-nvim/feline.nvim')
-  use {
-    'stevearc/oil.nvim',
-    config = function()
-      require('after/plugin.oil')     
-    end
-  }
+  use {'stevearc/oil.nvim'}
   use {
   "startup-nvim/startup.nvim",
   requires = {"nvim-telescope/telescope.nvim", "nvim-lua/plenary.nvim", "nvim-telescope/telescope-file-browser.nvim"},

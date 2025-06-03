@@ -1,5 +1,6 @@
 -- lua/config/oil.lua
 -- Setup Oil
+-- plugin is not even being used right now
 require("oil").setup({
   default_file_explorer = true,
   use_default_keymaps =true ,

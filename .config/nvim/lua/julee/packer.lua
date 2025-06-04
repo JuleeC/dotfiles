@@ -20,7 +20,7 @@ return require('packer').startup(function(use)
   use ('tpope/vim-fugitive') 
   use({"nvim-lua/plenary.nvim"})
   use('nvim-tree/nvim-web-devicons') -- Recommended for icons
-  use('feline-nvim/feline.nvim')
+    -- use('feline-nvim/feline.nvim')
     --use {'stevearc/oil.nvim'}
   use {
   "startup-nvim/startup.nvim",

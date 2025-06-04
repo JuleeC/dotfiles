@@ -74,15 +74,15 @@ end
 time([[try_loadstring definition]], false)
 time([[Defining packer_plugins]], true)
 _G.packer_plugins = {
-  ["feline.nvim"] = {
-    loaded = true,
-    path = "/home/julee/.local/share/nvim/site/pack/packer/start/feline.nvim",
-    url = "https://github.com/feline-nvim/feline.nvim"
-  },
   harpoon = {
     loaded = true,
     path = "/home/julee/.local/share/nvim/site/pack/packer/start/harpoon",
     url = "https://github.com/ThePrimeagen/harpoon"
+  },
+  ["lualine.nvim"] = {
+    loaded = true,
+    path = "/home/julee/.local/share/nvim/site/pack/packer/start/lualine.nvim",
+    url = "https://github.com/nvim-lualine/lualine.nvim"
   },
   ["nordic.nvim"] = {
     loaded = true,

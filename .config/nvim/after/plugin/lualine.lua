@@ -1,6 +1,6 @@
 require('lualine').setup({
   options = {
-    theme = 'tokyonight',
+    theme = 'darkgray',
     icons_enabled = true,
     component_separators = { left = '', right = '' },
     section_separators = { left = '', right = '' },
@@ -9,8 +9,8 @@ require('lualine').setup({
   },
   sections = {
     lualine_a = {'mode'},
-    lualine_b = {'branch', 'diff'},
-    lualine_c = {'filename'},
+    lualine_b = {'branch', 'location'},
+   -- lualine_c = {'filename',{lsp.lsp_client },},
     lualine_x = {'diagnostics', 'encoding', 'fileformat', 'filetype'},
     lualine_y = {'progress'},
     lualine_z = {'location'}

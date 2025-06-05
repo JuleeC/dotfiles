@@ -63,12 +63,12 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/julee/Downloads/htl.jpg" added="2025-05-21T18:41:13.358957Z" modified="2025-05-21T18:41:20.556827Z" visited="2025-05-21T18:41:13.358958Z">
+  <bookmark href="file:///home/julee/Downloads/htl.jpg" added="2025-05-21T18:41:13.358957Z" modified="2025-06-05T20:44:12.048893Z" visited="2025-05-21T18:41:13.358958Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/jpeg"/>
         <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-05-21T18:41:20.556825Z" count="3"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-06-05T20:44:12.048887Z" count="4"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -79,6 +79,16 @@
         <mime:mime-type type="image/png"/>
         <bookmark:applications>
           <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-05-22T14:43:37.142975Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/julee/Downloads/pexels-photo-596134.png" added="2025-06-05T20:46:03.427404Z" modified="2025-06-05T20:46:11.993116Z" visited="2025-06-05T20:46:03.427405Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-06-05T20:46:11.993110Z" count="3"/>
         </bookmark:applications>
       </metadata>
     </info>

@@ -22,15 +22,22 @@ return require('packer').startup(function(use)
   use('nvim-tree/nvim-web-devicons') -- Recommended for icons
     -- use('feline-nvim/feline.nvim')
     --use {'stevearc/oil.nvim'}
-  use {
-  "startup-nvim/startup.nvim",
-  requires = {"nvim-telescope/telescope.nvim", "nvim-lua/plenary.nvim", "nvim-telescope/telescope-file-browser.nvim"},
-  }
+
   use("neovim/nvim-lspconfig")
   use {
   'nvim-lualine/lualine.nvim',
   requires = { 'nvim-tree/nvim-web-devicons', opt = true }
   }
+  use {
+    'goolord/alpha-nvim',
+    requires = {
+        'echasnovski/mini.icons',
+        'nvim-lua/plenary.nvim'
+    },
+    config = function ()
+        require'alpha'.setup(require'alpha.themes.dashboard'.config)
+    end
+}
  
 end)
 

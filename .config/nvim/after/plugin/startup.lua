@@ -1,5 +1,17 @@
 require("startup").setup({
-  -- Your configuration options here
-  theme = "dashboard", -- or "evil", "startify", etc.
-  -- Add other settings as needed
+  theme = "startify",  -- this may be "dashboard", "startify", etc.
+  config  = {
+    header = {
+      "",
+      "   ███╗   ██╗██╗   ██╗███╗   ███╗",
+      "   ████╗  ██║██║   ██║████╗ ████║",
+      "   ██╔██╗ ██║██║   ██║██╔████╔██║",
+      "   ██║╚██╗██║██║   ██║██║╚██╔╝██║",
+      "   ██║ ╚████║╚██████╔╝██║ ╚═╝ ██║",
+      "   ╚═╝  ╚═══╝ ╚═════╝ ╚═╝     ╚═╝",
+      "",
+    },
+    -- other sections like body, footer, etc.
+  }
 })
+

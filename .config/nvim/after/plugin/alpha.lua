@@ -14,8 +14,7 @@
                 local version = vim.version()
                 local nvim_version_info = "   v" .. version.major .. "." .. version.minor .. "." .. version.patch
 
-                return datetime .. "   " .. total_plugins .. " plugins" .. nvim_version_info .. "\n" .."coooddddeeee".."\n"..", the asteroids are comin..."
-            
+                return datetime .. "   " .. total_plugins .. " plugins" .. nvim_version_info             
             end
 
             local logo ={

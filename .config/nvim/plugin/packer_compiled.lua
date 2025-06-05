@@ -84,11 +84,6 @@ _G.packer_plugins = {
     path = "/home/julee/.local/share/nvim/site/pack/packer/start/lualine.nvim",
     url = "https://github.com/nvim-lualine/lualine.nvim"
   },
-  ["mason.nvim"] = {
-    loaded = true,
-    path = "/home/julee/.local/share/nvim/site/pack/packer/start/mason.nvim",
-    url = "https://github.com/mason-org/mason.nvim"
-  },
   ["nordic.nvim"] = {
     loaded = true,
     path = "/home/julee/.local/share/nvim/site/pack/packer/start/nordic.nvim",

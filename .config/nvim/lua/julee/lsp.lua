@@ -90,4 +90,8 @@ vim.diagnostic.config({
   signs = true,
   update_in_insert = false,
 })
+vim.keymap.set("n", "<leader>f", function()
+  vim.lsp.buf.format({ async = true })
+end, { buffer = ev.buf })
+
 

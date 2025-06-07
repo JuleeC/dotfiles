@@ -12,6 +12,10 @@ return require('packer').startup(function(use)
 -- or                            , branch = '0.1.x',
   requires = { {'nvim-lua/plenary.nvim'} }
   }
+use {"jose-elias-alvarez/null-ls.nvim",
+  requires = { "nvim-lua/plenary.nvim" },
+ }
+
   use 'AlexvZyl/nordic.nvim'
   use ('nvim-treesitter/nvim-treesitter',{ run = ':TSUpdate'})
   use ('nvim-treesitter/playground')
@@ -49,6 +53,8 @@ return require('packer').startup(function(use)
  }
 
  use "neovim/nvim-lspconfig"
+
+  
 
   -- Optional: Autocompletion plugins
   use 'hrsh7th/nvim-cmp' -- Autocompletion plugin

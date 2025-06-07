@@ -38,10 +38,17 @@ return require('packer').startup(function(use)
     end
   }
  -- LSP core plugins
-  use 'neovim/nvim-lspconfig' -- LSP configurations for Neovim
-  use 'williamboman/mason.nvim' -- Manage LSP servers
-  use 'williamboman/mason-lspconfig.nvim' -- Bridge between mason and lspconfig
+ use {
+  "williamboman/mason.nvim",
+  run = ":MasonUpdate" -- optional
+ }
 
+ use {
+  "williamboman/mason-lspconfig.nvim",
+  requires = { "williamboman/mason.nvim", "neovim/nvim-lspconfig" }
+ }
+
+ use "neovim/nvim-lspconfig"
 
   -- Optional: Autocompletion plugins
   use 'hrsh7th/nvim-cmp' -- Autocompletion plugin

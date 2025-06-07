@@ -1,9 +1,14 @@
--- init.lua or plugins.lua
 require("mason").setup()
-require("mason-lspconfig").setup()
+
+local servers = { 'pyright', 'lua_ls' }
+
+-- Correctly setup mason-lspconfig just once
+require("mason-lspconfig").setup({
+  ensure_installed = servers,
+  automatic_installation = true,
+})
 
 -- Set up nvim-cmp for autocompletion
---
 local cmp = require('cmp')
 local lspkind = require('lspkind')
 
@@ -38,26 +43,14 @@ cmp.setup({
 local lspconfig = require('lspconfig')
 local capabilities = require('cmp_nvim_lsp').default_capabilities()
 
--- List of servers to install and configure
-local servers = { 'pyright', 'clangd', 'rust_analyzer', 'lua_ls' }
-
--- Ensure servers are installed
-require('mason-lspconfig').setup {
-  ensure_installed = servers, -- Automatically install these servers
-  automatic_installation = true, -- Install servers automatically if not present
-}
-
--- Configure each server
 require('mason-lspconfig').setup_handlers {
-  -- Default handler for all servers
   function(server_name)
     lspconfig[server_name].setup {
       capabilities = capabilities,
-      -- Server-specific settings (example for lua_ls)
       settings = server_name == 'lua_ls' and {
         Lua = {
           diagnostics = {
-            globals = { 'vim' }, -- Recognize 'vim' global for Neovim
+            globals = { 'vim' },
           },
         },
       } or {},
@@ -79,9 +72,9 @@ vim.api.nvim_create_autocmd('LspAttach', {
   end,
 })
 
--- Optional: Customize diagnostics
 vim.diagnostic.config({
   virtual_text = true,
   signs = true,
   update_in_insert = false,
 })
+

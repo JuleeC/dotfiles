@@ -1,21 +1,21 @@
+-- Mason: LSP installer
 require("mason").setup()
 
-local servers = { 'pyright', 'lua_ls' }
-
--- Correctly setup mason-lspconfig just once
+-- LSP bridge
 require("mason-lspconfig").setup({
-  ensure_installed = servers,
+  ensure_installed = { "pyright", "lua_ls" },
   automatic_installation = true,
 })
 
--- Set up nvim-cmp for autocompletion
-local cmp = require('cmp')
-local lspkind = require('lspkind')
+-- Autocompletion setup
+local cmp = require("cmp")
+local luasnip = require("luasnip")
+local lspkind = require("lspkind")
 
 cmp.setup({
   snippet = {
     expand = function(args)
-      require('luasnip').lsp_expand(args.body)
+      luasnip.lsp_expand(args.body)
     end,
   },
   mapping = cmp.mapping.preset.insert({
@@ -26,52 +26,65 @@ cmp.setup({
     ['<CR>'] = cmp.mapping.confirm({ select = true }),
   }),
   sources = cmp.config.sources({
-    { name = 'nvim_lsp' },
-    { name = 'luasnip' },
-    { name = 'buffer' },
-    { name = 'path' },
+    { name = "nvim_lsp" },
+    { name = "luasnip" },
+    { name = "buffer" },
+    { name = "path" },
   }),
   formatting = {
     format = lspkind.cmp_format({
-      mode = 'symbol_text',
+      mode = "symbol_text",
       maxwidth = 50,
     }),
   },
 })
 
--- Set up LSP servers with Mason
-local lspconfig = require('lspconfig')
-local capabilities = require('cmp_nvim_lsp').default_capabilities()
+-- LSP config
+local lspconfig = require("lspconfig")
+local capabilities = require("cmp_nvim_lsp").default_capabilities()
+local servers = { "pyright", "lua_ls" }
 
-require('mason-lspconfig').setup_handlers {
-  function(server_name)
-    lspconfig[server_name].setup {
-      capabilities = capabilities,
-      settings = server_name == 'lua_ls' and {
-        Lua = {
-          diagnostics = {
-            globals = { 'vim' },
-          },
+for _, server in ipairs(servers) do
+  local opts = {
+    capabilities = capabilities,
+  }
+
+  if server == "lua_ls" then
+    opts.settings = {
+      Lua = {
+        runtime = { version = "LuaJIT" },
+        diagnostics = {
+          globals = { "vim" },
         },
-      } or {},
+        workspace = {
+          checkThirdParty = false,
+          library = vim.api.nvim_get_runtime_file("", true),
+        },
+        telemetry = { enable = false },
+      },
     }
-  end,
-}
 
--- Keybindings for LSP
-vim.api.nvim_create_autocmd('LspAttach', {
-  group = vim.api.nvim_create_augroup('UserLspConfig', {}),
+    -- Prevent scanning $HOME
+    opts.root_dir = require("lspconfig.util").root_pattern(".git", "init.lua")
+  end
+
+  lspconfig[server].setup(opts)
+end
+
+-- LSP keymaps
+vim.api.nvim_create_autocmd("LspAttach", {
   callback = function(ev)
     local opts = { buffer = ev.buf }
-    vim.keymap.set('n', 'gd', vim.lsp.buf.definition, opts)
-    vim.keymap.set('n', 'K', vim.lsp.buf.hover, opts)
-    vim.keymap.set('n', '<leader>rn', vim.lsp.buf.rename, opts)
-    vim.keymap.set('n', '<leader>ca', vim.lsp.buf.code_action, opts)
-    vim.keymap.set('n', '[d', vim.diagnostic.goto_prev, opts)
-    vim.keymap.set('n', ']d', vim.diagnostic.goto_next, opts)
+    vim.keymap.set("n", "gd", vim.lsp.buf.definition, opts)
+    vim.keymap.set("n", "K", vim.lsp.buf.hover, opts)
+    vim.keymap.set("n", "<leader>rn", vim.lsp.buf.rename, opts)
+    vim.keymap.set("n", "<leader>ca", vim.lsp.buf.code_action, opts)
+    vim.keymap.set("n", "[d", vim.diagnostic.goto_prev, opts)
+    vim.keymap.set("n", "]d", vim.diagnostic.goto_next, opts)
   end,
 })
 
+-- Diagnostic display
 vim.diagnostic.config({
   virtual_text = true,
   signs = true,

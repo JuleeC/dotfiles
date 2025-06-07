@@ -20,8 +20,9 @@ The config has a austronaut like theme and isnt as configured as others but i li
 * maybe adding more wallpaper with hyprpaper
 * installing also maybe discord
 * changing firefox theme
-* adding lsp
+* ~~adding lsp~~
 * adding coc
+* ricing more hyprland :)
  
 ### thats how it looks :)
 ![image](https://github.com/JuleeC/dotfiles/blob/main/Pictures/Screenshots/SHOW_OFF.png)

@@ -1,0 +1,13 @@
+{
+  "suggest.noselect": false,
+  "suggest.enablePreview": true,
+  "diagnostic.virtualText": true,
+  "coc.preferences.formatOnSaveFiletypes": ["javascript", "typescript", "lua", "python", "json", "markdown"],
+  "languageserver": {
+    "lua": {
+      "command": "lua-language-server",
+      "filetypes": ["lua"]
+    }
+  }
+}
+

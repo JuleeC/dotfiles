@@ -10,4 +10,3 @@ vim.api.nvim_set_keymap("n", "<leader>rn", "<Plug>(coc-rename)", opts)
 vim.cmd [[
   autocmd BufWritePre *.js,*.ts,*.py,*.lua,*.json,*.md :silent! :CocCommand editor.action.formatDocument
 ]]
-

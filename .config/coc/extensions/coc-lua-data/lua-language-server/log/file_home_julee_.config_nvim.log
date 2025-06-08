@@ -650,3 +650,23 @@
 [15:32:01.912][info] [#0:script/workspace/loading.lua:182]: Loaded finish:	file:///home/julee/.config/nvim/after/plugin/coc-keymaps.lua
 [15:32:04.551][info] [#0:script/provider/diagnostic.lua:560]: Diagnostics scope [file:///home/julee/.config/nvim], files count:[31]
 [15:32:04.829][info] [#0:script/provider/diagnostic.lua:577]: Diagnostics scope [file:///home/julee/.config/nvim] finished, takes [0.129] sec.
+[15:35:46.881][info] [#0:script/provider/diagnostic.lua:560]: Diagnostics scope [file:///home/julee/.config/nvim], files count:[32]
+[15:35:47.234][info] [#0:script/provider/diagnostic.lua:577]: Diagnostics scope [file:///home/julee/.config/nvim] finished, takes [0.180] sec.
+[15:35:58.830][info] [#0:script/provider/diagnostic.lua:171]: clearDiagnostics	file:///home/julee/.config/nvim/after/plugin/coc-settings-2.lua
+[15:35:59.959][info] [#0:script/workspace/workspace.lua:284]: Scan files at:	file:///home/julee/.config/nvim/after/plugin/coc-settings-2.lua
+[15:35:59.959][info] [#0:script/workspace/loading.lua:160]: Load files from disk:	file:///home/julee/.config/nvim/after/plugin/coc-settings-2.lua
+[15:35:59.959][info] [#0:script/workspace/loading.lua:88]: Skip loaded file: file:///home/julee/.config/nvim/after/plugin/coc-settings-2.lua
+[15:35:59.959][info] [#0:script/workspace/loading.lua:172]: Loaded files takes [0.000] sec: file:///home/julee/.config/nvim/after/plugin/coc-settings-2.lua
+[15:35:59.959][info] [#0:script/workspace/loading.lua:181]: Compile files takes [0.000] sec: file:///home/julee/.config/nvim/after/plugin/coc-settings-2.lua
+[15:35:59.959][info] [#0:script/workspace/loading.lua:182]: Loaded finish:	file:///home/julee/.config/nvim/after/plugin/coc-settings-2.lua
+[15:36:01.999][info] [#0:script/provider/diagnostic.lua:560]: Diagnostics scope [file:///home/julee/.config/nvim], files count:[32]
+[15:36:02.132][info] [#0:script/provider/diagnostic.lua:560]: Diagnostics scope [file:///home/julee/.config/nvim], files count:[32]
+[15:36:02.462][info] [#0:script/provider/diagnostic.lua:577]: Diagnostics scope [file:///home/julee/.config/nvim] finished, takes [0.161] sec.
+[15:36:03.184][info] [#0:script/provider/diagnostic.lua:560]: Diagnostics scope [file:///home/julee/.config/nvim], files count:[32]
+[15:36:03.505][info] [#0:script/provider/diagnostic.lua:577]: Diagnostics scope [file:///home/julee/.config/nvim] finished, takes [0.148] sec.
+[15:36:16.947][info] [#0:script/workspace/workspace.lua:284]: Scan files at:	file:///home/julee/.config/nvim/after/plugin/coc-settings-2.lua
+[15:36:16.948][info] [#0:script/workspace/loading.lua:160]: Load files from disk:	file:///home/julee/.config/nvim/after/plugin/coc-settings-2.lua
+[15:36:16.948][info] [#0:script/workspace/loading.lua:88]: Skip loaded file: file:///home/julee/.config/nvim/after/plugin/coc-settings-2.lua
+[15:36:16.948][info] [#0:script/workspace/loading.lua:172]: Loaded files takes [0.000] sec: file:///home/julee/.config/nvim/after/plugin/coc-settings-2.lua
+[15:36:16.948][info] [#0:script/workspace/loading.lua:181]: Compile files takes [0.000] sec: file:///home/julee/.config/nvim/after/plugin/coc-settings-2.lua
+[15:36:16.948][info] [#0:script/workspace/loading.lua:182]: Loaded finish:	file:///home/julee/.config/nvim/after/plugin/coc-settings-2.lua

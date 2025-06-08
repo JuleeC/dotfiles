@@ -37,6 +37,12 @@ return require('packer').startup(function(use)
         require'alpha'.setup(require'alpha.themes.dashboard'.config)
     end
   }
+    -- coc.nvim
+  use {
+    'neoclide/coc.nvim',
+    branch = 'release'
+  }
+
  end)
 
 

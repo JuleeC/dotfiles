@@ -80,6 +80,11 @@ _G.packer_plugins = {
     path = "/home/julee/.local/share/nvim/site/pack/packer/start/alpha-nvim",
     url = "https://github.com/goolord/alpha-nvim"
   },
+  ["coc.nvim"] = {
+    loaded = true,
+    path = "/home/julee/.local/share/nvim/site/pack/packer/start/coc.nvim",
+    url = "https://github.com/neoclide/coc.nvim"
+  },
   harpoon = {
     loaded = true,
     path = "/home/julee/.local/share/nvim/site/pack/packer/start/harpoon",

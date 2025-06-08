@@ -37,33 +37,7 @@ return require('packer').startup(function(use)
         require'alpha'.setup(require'alpha.themes.dashboard'.config)
     end
   }
- -- LSP core plugins
- use {
-  "williamboman/mason.nvim",
-  run = ":MasonUpdate" -- optional
- }
-
- use {
-  "williamboman/mason-lspconfig.nvim",
-  requires = { "williamboman/mason.nvim", "neovim/nvim-lspconfig" }
- }
-
- use "neovim/nvim-lspconfig"
-
-  
-
-  -- Optional: Autocompletion plugins
-  use 'hrsh7th/nvim-cmp' -- Autocompletion plugin
-  use 'hrsh7th/cmp-nvim-lsp' -- LSP source for nvim-cmp
-  use 'hrsh7th/cmp-buffer' -- Buffer completions
-  use 'hrsh7th/cmp-path' -- Path completions
-  use 'hrsh7th/cmp-cmdline' -- Cmdline completions
-  use 'L3MON4D3/LuaSnip' -- Snippet engine
-  use 'saadparwaiz1/cmp_luasnip' -- Snippet completions
-
-  -- Optional: UI enhancements
-  use 'onsails/lspkind.nvim' -- VSCode-like pictograms for autocompletion
-end)
+ end)
 
 
 

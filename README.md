@@ -34,4 +34,4 @@ The config has a austronaut like theme and isnt as configured as others but i li
 
 ![image](https://github.com/JuleeC/dotfiles/blob/main/Pictures/Screenshots/SHOW_OFF.png)
 
-![image](https://github.com/JuleeC/dotfiles/blob/main/Pictures/Screenshots/SHOW_OFF_LOGIN.png)
+![image](https://github.com/JuleeC/dotfiles/blob/main/Pictures/Screenshots/SHOW_OFF_LOGINN.png)

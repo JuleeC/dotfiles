@@ -23,6 +23,7 @@ The config has a austronaut like theme and isnt as configured as others but i li
 - waybar needs to look fresher
 - maybe adding more wallpaper with hyprpaper
 - installing also maybe discord
+- changing wlogout it looks horrible
 - ~~changing firefox theme~~
 - ~~adding lsp~~
 - ~~adding coc~~

@@ -23,9 +23,10 @@ The config has a austronaut like theme and isnt as configured as others but i li
 - waybar needs to look fresher
 - maybe adding more wallpaper with hyprpaper
 - installing also maybe discord
-- changing firefox theme
+- ~~changing firefox theme~~
 - ~~adding lsp~~
-- adding coc
+- ~~adding coc~~
+- ~~customizing tmux fresher~~
 - ricing more hyprland :)
 
 ### thats how it looks :)

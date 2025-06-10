@@ -8,15 +8,13 @@
   "passthrough": false,
   "fixed-center": true,
   "modules-left": ["hyprland/workspaces", "hyprland/window"],
-  "modules-center": ["mpris"],
+  "modules-center": ["mpris","clock"],
   "modules-right": [
     "cpu",
     "memory",
     "pulseaudio",
-    "clock",
     "clock#simpleclock",
     "tray",
-    "custom/notification",
     "custom/power"
   ],
   "custom/spotify": {

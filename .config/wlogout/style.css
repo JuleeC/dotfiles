@@ -3,29 +3,30 @@
 	transition: 0;
 }
 window {
-  background-color:  rgba(0,0,0,0.1);
+	background-color: rgba(43, 46, 44, 0.25);
 }
 button {
     color: #d4bff9;
-	background-color: rgba(237, 229, 252, 0.25);
-	border: 0 solid #d4bff9;
+	background-color: rgba(43, 46, 44, 0.65);
+	border: 2px solid #c3a0ee;
 	border-radius: 3rem;
 	margin: 0.8rem;
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: 25%;
-	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-	font-family: Roboto;
-	font-size: 1.7rem;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.39);
+	font-family: JetBrains Mono;
+	font-size: 1.6rem;
 }
 
 button:focus, button:active, button:hover {
-	background-color: rgba(252, 251, 254, 1);
+	background-color: rgba(43, 46, 44, 0.95);
 	outline-style: none;
 }
 
 #lock {
     background-image: image(url("/usr/share/wlogout/icons/lock.png"), url("/usr/local/share/wlogout/icons/lock.png"));
+    background-color: rgba(43, 46, 44, 0.65);
 }
 
 #logout {

@@ -20,10 +20,12 @@ The config has a austronaut like theme and isnt as configured as others but i li
 ## Goals
 
 - coding some own eww widgets
-- waybar needs to look fresher
+- ~~waybar needs to look fresher~~
 - maybe adding more wallpaper with hyprpaper
 - installing also maybe discord
-- changing wlogout it looks horrible
+- customizing rofi
+- intsallling a file explorer with picture preview
+- ~~changing wlogout it looks horrible~~
 - ~~changing firefox theme~~
 - ~~adding lsp~~
 - ~~adding coc~~

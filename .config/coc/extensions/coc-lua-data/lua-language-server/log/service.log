@@ -1,10 +1,10 @@
-[15:29:09.787][info] [#0:/home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/main.lua:68]: Lua Lsp startup, root: 	/home/julee/.config/coc/extensions/coc-lua-data/lua-language-server
-[15:29:09.787][info] [#0:/home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/main.lua:69]: ROOT:	/home/julee/.config/coc/extensions/coc-lua-data/lua-language-server
-[15:29:09.787][info] [#0:/home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/main.lua:70]: LOGPATH:	/home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/log
-[15:29:09.787][info] [#0:/home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/main.lua:71]: METAPATH:	/home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta
-[15:29:09.787][info] [#0:/home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/main.lua:72]: VERSION:	3.14.0
-[15:29:09.821][info] [#0:script/proto/proto.lua:260]: Listen Mode: stdio
-[15:29:09.821][info] [#0:script/service/service.lua:145]: 
+[15:35:00.250][info] [#0:/home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/main.lua:68]: Lua Lsp startup, root: 	/home/julee/.config/coc/extensions/coc-lua-data/lua-language-server
+[15:35:00.250][info] [#0:/home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/main.lua:69]: ROOT:	/home/julee/.config/coc/extensions/coc-lua-data/lua-language-server
+[15:35:00.250][info] [#0:/home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/main.lua:70]: LOGPATH:	/home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/log
+[15:35:00.250][info] [#0:/home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/main.lua:71]: METAPATH:	/home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta
+[15:35:00.251][info] [#0:/home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/main.lua:72]: VERSION:	3.14.0
+[15:35:00.291][info] [#0:script/proto/proto.lua:260]: Listen Mode: stdio
+[15:35:00.291][info] [#0:script/service/service.lua:145]: 
 ========= Medical Examination Report =========
     --------------- Memory ---------------
         Total: 2.263 MB
@@ -26,7 +26,7 @@
         Holdon:   0
         Waiting:  0
 ==============================================
-[15:29:09.929][info] [#0:script/client.lua:657]: Client init	{
+[15:35:00.401][info] [#0:script/client.lua:657]: Client init	{
   capabilities = {
     general = {
       markdown = {
@@ -309,17 +309,17 @@
     changeConfiguration = true
   },
   locale = "en_US",
-  processId = 6516,
+  processId = 1388,
   rootPath = "/home/julee/.config/nvim",
   rootUri = "file:///home/julee/.config/nvim",
   trace = "off",
-  workDoneToken = "b32aa75d-b6e6-4ced-82d3-3573a3765173",
+  workDoneToken = "f4144da0-8c41-4b6b-9072-1dea37d0f624",
   workspaceFolders = { {
       name = "nvim",
       uri = "file:///home/julee/.config/nvim"
     } }
 }
-[15:29:09.930][info] [#0:script/language.lua:137]: VSC language: en_US
-[15:29:09.930][info] [#0:script/language.lua:138]: LS  language: en-us
-[15:29:09.930][info] [#0:script/workspace/workspace.lua:38]: Workspace init root: 	file:///home/julee/.config/nvim
-[15:29:09.930][info] [#0:script/workspace/workspace.lua:42]: Log path: 	/home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/log/file_home_julee_.config_nvim.log
+[15:35:00.402][info] [#0:script/language.lua:137]: VSC language: en_US
+[15:35:00.402][info] [#0:script/language.lua:138]: LS  language: en-us
+[15:35:00.402][info] [#0:script/workspace/workspace.lua:38]: Workspace init root: 	file:///home/julee/.config/nvim
+[15:35:00.402][info] [#0:script/workspace/workspace.lua:42]: Log path: 	/home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/log/file_home_julee_.config_nvim.log

@@ -3,12 +3,11 @@
 	transition: 0;
 }
 window {
-	background-color: rgba(12, 12, 12, 1);
-	background-image: url('./noise.png');
+  background-color:  rgba(0,0,0,0.1);
 }
 button {
     color: #d4bff9;
-	background-color: rgba(252, 251, 254, 0.15);
+	background-color: rgba(252, 251, 254, 1);
 	border: 0 solid #d4bff9;
 	border-radius: 3rem;
 	margin: 0.8rem;

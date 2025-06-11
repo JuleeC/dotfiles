@@ -123,4 +123,14 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/julee/Downloads/noise.png" added="2025-06-11T15:53:50.397495Z" modified="2025-06-11T15:53:50.397500Z" visited="2025-06-11T15:53:50.397495Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-06-11T15:53:50.397497Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>

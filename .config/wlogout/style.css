@@ -3,7 +3,7 @@
 	transition: 0;
 }
 window {
-	background-color: rgba(12, 12, 12, 0.1);
+	background-color: rgba(12, 12, 12, 1);
 	background-image: url('./noise.png');
 }
 button {

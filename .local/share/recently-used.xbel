@@ -133,4 +133,14 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/julee/.config/wlogout/backimage.png" added="2025-06-11T15:57:22.430907Z" modified="2025-06-11T15:57:22.759298Z" visited="2025-06-11T15:57:22.430910Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-06-11T15:57:22.759296Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>

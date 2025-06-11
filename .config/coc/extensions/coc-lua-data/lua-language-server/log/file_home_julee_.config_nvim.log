@@ -638,3 +638,25 @@
 [15:35:01.530][info] [#0:script/workspace/workspace.lua:381]: Preload finish at:	<fallback>
 [15:35:02.490][info] [#0:script/provider/diagnostic.lua:560]: Diagnostics scope [file:///home/julee/.config/nvim], files count:[30]
 [15:35:02.903][info] [#0:script/provider/diagnostic.lua:577]: Diagnostics scope [file:///home/julee/.config/nvim] finished, takes [0.235] sec.
+[15:45:00.429][info] [#0:script/service/service.lua:145]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 7.727 MB
+        # 00 : 7.394 MB
+        # 01 : 0.053 MB
+        # 02 : 0.053 MB
+        # 03 : 0.128 MB
+        # 04 : 0.099 MB
+    --------------- Coroutine ---------------
+        Total:     1
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      1
+    --------------- Cache ---------------
+        Total: 1
+        Dead:  0
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================

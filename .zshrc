@@ -27,3 +27,5 @@ source $ZSH/oh-my-zsh.sh
 alias ls="ls --color"
 alias neofetch="neofetch --ascii ~/.config/neofetch/ascii"
 alias vim="nvim"
+    export XDG_DATA_HOME="$HOME/.local/share"
+    export XDG_DATA_DIRS="/usr/local/share/:/usr/share/"

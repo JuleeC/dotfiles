@@ -173,4 +173,14 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/julee/Downloads/rofi.png" added="2025-06-14T21:54:28.670776Z" modified="2025-06-14T21:54:28.670780Z" visited="2025-06-14T21:54:28.670776Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-06-14T21:54:28.670778Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>

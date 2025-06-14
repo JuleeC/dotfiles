@@ -23,8 +23,8 @@ The config has a austronaut like theme and isnt as configured as others but i li
 - ~~waybar needs to look fresher~~
 - maybe adding more wallpaper with hyprpaper
 - installing also maybe discord
-- customizing rofi
-- intsallling a file explorer with picture preview
+- ~~customizing rofi~~
+- ~~intsallling a file explorer with picture preview~~
 - ~~changing wlogout it looks horrible~~
 - ~~changing firefox theme~~
 - ~~adding lsp~~

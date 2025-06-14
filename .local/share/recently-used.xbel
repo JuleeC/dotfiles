@@ -183,4 +183,34 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/julee/.config/rofi/black_hole.png" added="2025-06-14T22:07:27.310212Z" modified="2025-06-14T22:07:27.666710Z" visited="2025-06-14T22:07:27.310213Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-06-14T22:07:27.666706Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/julee/Downloads/wallhaven-j89gkq_1920x1080.png" added="2025-06-14T22:08:49.898779Z" modified="2025-06-14T22:08:49.898786Z" visited="2025-06-14T22:08:49.898780Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-06-14T22:08:49.898782Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/julee/Downloads/wallhaven-j89gkq_1280x720.png" added="2025-06-14T22:11:51.786948Z" modified="2025-06-14T22:11:51.786952Z" visited="2025-06-14T22:11:51.786949Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-06-14T22:11:51.786950Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>

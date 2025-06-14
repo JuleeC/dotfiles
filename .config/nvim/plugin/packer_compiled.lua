@@ -90,11 +90,6 @@ _G.packer_plugins = {
     path = "/home/julee/.local/share/nvim/site/pack/packer/start/harpoon",
     url = "https://github.com/ThePrimeagen/harpoon"
   },
-  illuminate = {
-    loaded = true,
-    path = "/home/julee/.local/share/nvim/site/pack/packer/start/illuminate",
-    url = "https://github.com/illuminate"
-  },
   ["lualine.nvim"] = {
     loaded = true,
     path = "/home/julee/.local/share/nvim/site/pack/packer/start/lualine.nvim",

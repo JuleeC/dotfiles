@@ -701,3 +701,11 @@
 [21:39:00.880][info] [#0:script/workspace/loading.lua:182]: Loaded finish:	file:///home/julee/.config/nvim/lua/julee/packer.lua
 [21:39:03.720][info] [#0:script/provider/diagnostic.lua:560]: Diagnostics scope [file:///home/julee/.config/nvim], files count:[30]
 [21:39:04.024][info] [#0:script/provider/diagnostic.lua:577]: Diagnostics scope [file:///home/julee/.config/nvim] finished, takes [0.159] sec.
+[21:39:32.902][info] [#0:script/workspace/workspace.lua:284]: Scan files at:	file:///home/julee/.config/nvim/lua/julee/packer.lua
+[21:39:32.903][info] [#0:script/workspace/loading.lua:160]: Load files from disk:	file:///home/julee/.config/nvim/lua/julee/packer.lua
+[21:39:32.903][info] [#0:script/workspace/loading.lua:88]: Skip loaded file: file:///home/julee/.config/nvim/lua/julee/packer.lua
+[21:39:32.903][info] [#0:script/workspace/loading.lua:172]: Loaded files takes [0.000] sec: file:///home/julee/.config/nvim/lua/julee/packer.lua
+[21:39:32.903][info] [#0:script/workspace/loading.lua:181]: Compile files takes [0.000] sec: file:///home/julee/.config/nvim/lua/julee/packer.lua
+[21:39:32.903][info] [#0:script/workspace/loading.lua:182]: Loaded finish:	file:///home/julee/.config/nvim/lua/julee/packer.lua
+[21:39:35.026][info] [#0:script/provider/diagnostic.lua:560]: Diagnostics scope [file:///home/julee/.config/nvim], files count:[30]
+[21:39:35.323][info] [#0:script/provider/diagnostic.lua:577]: Diagnostics scope [file:///home/julee/.config/nvim] finished, takes [0.155] sec.

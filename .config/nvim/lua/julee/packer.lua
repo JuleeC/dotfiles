@@ -27,7 +27,6 @@ return require('packer').startup(function(use)
       require("supermaven-nvim").setup({})
     end,
   }
-  use { "illuminate" }
   use {
     'nvim-lualine/lualine.nvim',
     requires = { 'nvim-tree/nvim-web-devicons', opt = true }

@@ -153,4 +153,24 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/julee/package.json" added="2025-06-14T21:49:24.003797Z" modified="2025-06-14T21:49:24.003800Z" visited="2025-06-14T21:49:24.003797Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/json"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-06-14T21:49:24.003798Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/julee/wallpaper_space.png" added="2025-06-14T21:49:25.980861Z" modified="2025-06-14T21:49:42.894920Z" visited="2025-06-14T21:49:25.980862Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-06-14T21:49:42.894915Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>

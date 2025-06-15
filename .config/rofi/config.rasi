@@ -5,17 +5,17 @@
 
 * {
 
-    bg0:    #212121F2;
-    bg1:    #2A2A2A;
-    bg2:    #3D3D3D80;
-    bg3:    #1A73E8F2;
-    fg0:    #E6E6E6;
+    bg0:   rgba(0, 0, 0, 0.0);//the background
+    bg1:    rgba(0, 0, 0, 1.0);//search bar background
+    bg2:    rgba(0, 0, 0, 0.0);//idk
+    bg3:    rgba(0, 0, 0, 1.0);//marked element
+    fg0:    #FFFFFF;
     fg1:    #FFFFFF;
-    fg2:    #969696;
-    fg3:    #3D3D3D;
+    fg2:    #FFFFFF;
+    fg3:    #FFFFFF;
 
 
-    font:   "Roboto 12";
+    font:   "JetBrains Mono 12";
 
     background-color:   transparent;
     text-color:         @fg0;

@@ -57,8 +57,12 @@ listbox {
 inputbar {
     enabled:                     true;
     spacing:                     10px;
-    padding:                     80px 60px;
-    background-color:            transparent;
+    padding:                     80px 40px;
+    /* Add border properties */
+    border:                      2px solid; /* White border using foreground color */
+    border-color:                @foreground; /* Inherit the foreground color */
+    border-radius:               20px; /* Match the window's border-radius */
+    background-color:            @background; /* Fallback background */
     background-image:            url("~/.config/rofi/interstellar_2.png", width);
     text-color:                  @foreground;
     orientation:                 horizontal;

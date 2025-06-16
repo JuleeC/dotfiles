@@ -1,19 +1,9 @@
 * {
 
-    bg0:   rgba(0, 0, 0, 0.0);//the background
-    bg1:    rgba(0, 0, 0, 1.0);//search bar background
-    bg2:    rgba(0, 0, 0, 0.0);//idk
-    bg3:    rgba(0, 0, 0, 1.0);//marked element
-    fg0:    #FFFFFF;
-    fg1:    #FFFFFF;
-    fg2:    #FFFFFF;
-    fg3:    #FFFFFF;
-
-
     font:   "JetBrains Mono 12";
 
     background-color:   transparent;
-    text-color:         @fg0;
+    text-color:         #;
 
     margin:     0px;
     padding:    0px;
@@ -26,7 +16,7 @@ window {
     width:          480;
     border-radius:  24px;
 
-    background-color:   @bg0;
+    background-color:  #;
 }
 
 mainbox {
@@ -34,7 +24,7 @@ mainbox {
 }
 
 inputbar {
-    background-color:   @bg1;
+    background-color:   #;
     border-color:       @bg3;
 
     border:         2px;
@@ -46,19 +36,19 @@ inputbar {
 }
 
 prompt {
-    text-color: @fg2;
+    text-color: #;
 }
 
 entry {
     placeholder:        "Search";
-    placeholder-color:  @fg3;
+    placeholder-color:  #;
 }
 
 message {
     margin:             12px 0 0;
     border-radius:      16px;
-    border-color:       @bg2;
-    background-color:   @bg2;
+    border-color:       #;
+    background-color:   #;
 }
 
 textbox {
@@ -82,15 +72,15 @@ element {
 }
 
 element normal active {
-    text-color: @bg3;
+    text-color: #;
 }
 
 element alternate active {
-    text-color: @bg3;
+    text-color: #;
 }
 
 element selected normal, element selected active {
-    background-color:   @bg3;
+    background-color:  #;
 }
 
 element-icon {

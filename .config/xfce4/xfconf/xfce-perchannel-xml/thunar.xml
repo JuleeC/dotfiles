@@ -13,4 +13,5 @@
   <property name="last-menubar-visible" type="bool" value="false"/>
   <property name="last-side-pane" type="string" value="THUNAR_SIDEPANE_TYPE_TREE"/>
   <property name="last-location-bar" type="string" value="ThunarLocationEntry"/>
+  <property name="last-renamer-dialog-maximized" type="bool" value="true"/>
 </channel>

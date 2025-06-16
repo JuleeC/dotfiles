@@ -1,13 +1,13 @@
 /*****----- Configuration -----*****/
 configuration {
-	modi:                       "drun,filebrowser,window";
+    modi:                       "drun,filebrowser,window";
     show-icons:                 true;
     display-drun:               "";
     display-run:                "";
     display-filebrowser:        "";
     display-window:             "";
-	drun-display-format:        "{name}";
-	window-format:              "{w} · {c} · {t}";
+    drun-display-format:        "{name}";
+    window-format:              "{w} · {c} · {t}";
 }
 
 /*****----- Global Properties -----*****/
@@ -23,7 +23,6 @@ configuration {
 
 /*****----- Main Window -----*****/
 window {
-    /* properties for window widget */
     transparency:                "real";
     location:                    center;
     anchor:                      center;
@@ -31,8 +30,6 @@ window {
     width:                       600px;
     x-offset:                    0px;
     y-offset:                    0px;
-
-    /* properties for all widgets */
     enabled:                     true;
     border-radius:               20px;
     cursor:                      "default";
@@ -94,7 +91,7 @@ dummy {
 }
 
 /*****----- Mode Switcher -----*****/
-mode-switcher{
+mode-switcher {
     enabled:                     true;
     spacing:                     10px;
     background-color:            transparent;
@@ -125,7 +122,6 @@ listview {
     reverse:                     false;
     fixed-height:                true;
     fixed-columns:               true;
-    
     spacing:                     10px;
     background-color:            transparent;
     text-color:                  @foreground;
@@ -142,17 +138,25 @@ element {
     text-color:                  @foreground;
     cursor:                      pointer;
 }
+element normal {
+    background-color:            transparent;
+    text-color:                  @foreground;
+}
+element alternate {
+    background-color:            transparent;
+    text-color:                  @foreground;
+}
 element normal.normal {
     background-color:            transparent;
-    text-color:                  inherit;
+    text-color:                  @foreground;
 }
 element normal.urgent {
     background-color:            transparent;
-    text-color:                  @foreground;
+    text-color:                  @urgent;
 }
 element normal.active {
     background-color:            transparent;
-    text-color:                  @foreground;
+    text-color:                  @active;
 }
 element selected.normal {
     background-color:            @selected;
@@ -163,8 +167,20 @@ element selected.urgent {
     text-color:                  @foreground;
 }
 element selected.active {
-    background-color:            @urgent;
+    background-color:            @active;
     text-color:                  @foreground;
+}
+element alternate.normal {
+    background-color:            transparent;
+    text-color:                  @foreground;
+}
+element alternate.urgent {
+    background-color:            transparent;
+    text-color:                  @urgent;
+}
+element alternate.active {
+    background-color:            transparent;
+    text-color:                  @active;
 }
 element-icon {
     background-color:            transparent;

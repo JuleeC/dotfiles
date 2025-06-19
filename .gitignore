@@ -1,4 +1,5 @@
 .mozilla/
+.password-store/
 .cache/
 .gnupg/
 .local/

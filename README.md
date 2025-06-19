@@ -21,8 +21,6 @@ The config has a austronaut like theme and isnt as configured as others but i li
 
 - coding some own eww widgets
 - ~~waybar needs to look fresher~~
-- maybe adding more wallpaper with hyprpaper
-- installing also maybe discord
 - ~~customizing rofi~~
 - ~~intsallling a file explorer with picture preview~~
 - ~~changing wlogout it looks horrible~~

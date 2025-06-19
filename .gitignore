@@ -16,3 +16,5 @@ yay/
 .zsh_history
 .oh-my-zsh
 .npm
+git-credential-manager-core-bin/
+

@@ -3,3 +3,6 @@
 [user]
 	name = JuleeC
 	email = juleshummel44@gmail.com
+[credential]
+	helper = manager-core
+	credentialStore = gpg

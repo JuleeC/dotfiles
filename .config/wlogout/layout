@@ -35,7 +35,7 @@
 
 {
     "label" : "reboot",
-    "action" : "sudo runit-init 6",
+    "action" : "reboot now",
     "text" : "Reboot",
     "keybind" : "r"
 }

@@ -1,10 +1,10 @@
-[22:00:31.856][info] [#0:/home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/main.lua:68]: Lua Lsp startup, root: 	/home/julee/.config/coc/extensions/coc-lua-data/lua-language-server
-[22:00:31.856][info] [#0:/home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/main.lua:69]: ROOT:	/home/julee/.config/coc/extensions/coc-lua-data/lua-language-server
-[22:00:31.856][info] [#0:/home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/main.lua:70]: LOGPATH:	/home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/log
-[22:00:31.856][info] [#0:/home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/main.lua:71]: METAPATH:	/home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta
-[22:00:31.856][info] [#0:/home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/main.lua:72]: VERSION:	3.14.0
-[22:00:31.880][info] [#0:script/proto/proto.lua:260]: Listen Mode: stdio
-[22:00:31.880][info] [#0:script/service/service.lua:145]: 
+[22:04:06.891][info] [#0:/home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/main.lua:68]: Lua Lsp startup, root: 	/home/julee/.config/coc/extensions/coc-lua-data/lua-language-server
+[22:04:06.891][info] [#0:/home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/main.lua:69]: ROOT:	/home/julee/.config/coc/extensions/coc-lua-data/lua-language-server
+[22:04:06.891][info] [#0:/home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/main.lua:70]: LOGPATH:	/home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/log
+[22:04:06.891][info] [#0:/home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/main.lua:71]: METAPATH:	/home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta
+[22:04:06.891][info] [#0:/home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/main.lua:72]: VERSION:	3.14.0
+[22:04:06.916][info] [#0:script/proto/proto.lua:260]: Listen Mode: stdio
+[22:04:06.916][info] [#0:script/service/service.lua:145]: 
 ========= Medical Examination Report =========
     --------------- Memory ---------------
         Total: 2.263 MB
@@ -26,7 +26,7 @@
         Holdon:   0
         Waiting:  0
 ==============================================
-[22:00:31.988][info] [#0:script/client.lua:657]: Client init	{
+[22:04:07.023][info] [#0:script/client.lua:657]: Client init	{
   capabilities = {
     general = {
       markdown = {
@@ -326,23 +326,23 @@
     changeConfiguration = true
   },
   locale = "en_US",
-  processId = 11538,
+  processId = 12756,
   rootPath = "/home/julee/.config/nvim",
   rootUri = "file:///home/julee/.config/nvim",
   trace = "off",
-  workDoneToken = "4eacf506-d372-421f-a404-0243675a0119",
+  workDoneToken = "e9661a45-ecab-40e7-aaf6-6097a848ad0a",
   workspaceFolders = { {
       name = "nvim",
       uri = "file:///home/julee/.config/nvim"
     } }
 }
-[22:00:31.988][info] [#0:script/language.lua:137]: VSC language: en_US
-[22:00:31.988][info] [#0:script/language.lua:138]: LS  language: en-us
-[22:00:31.989][info] [#0:script/workspace/workspace.lua:38]: Workspace init root: 	file:///home/julee/.config/nvim
-[22:00:31.989][info] [#0:script/workspace/workspace.lua:42]: Log path: 	/home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/log/file_home_julee_.config_nvim.log
-[22:00:31.990][info] [#0:script/workspace/workspace.lua:48]: Workspace create: 	file:///home/julee/.config/nvim
-[22:00:32.296][info] [#0:script/provider/provider.lua:49]: Load config from client	file:///home/julee/.config/nvim
-[22:00:32.297][info] [#0:script/provider/provider.lua:50]: {
+[22:04:07.024][info] [#0:script/language.lua:137]: VSC language: en_US
+[22:04:07.024][info] [#0:script/language.lua:138]: LS  language: en-us
+[22:04:07.024][info] [#0:script/workspace/workspace.lua:38]: Workspace init root: 	file:///home/julee/.config/nvim
+[22:04:07.024][info] [#0:script/workspace/workspace.lua:42]: Log path: 	/home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/log/file_home_julee_.config_nvim.log
+[22:04:07.025][info] [#0:script/workspace/workspace.lua:48]: Workspace create: 	file:///home/julee/.config/nvim
+[22:04:07.331][info] [#0:script/provider/provider.lua:49]: Load config from client	file:///home/julee/.config/nvim
+[22:04:07.332][info] [#0:script/provider/provider.lua:50]: {
   Lua = {
     addonManager = {
       enable = true
@@ -450,9 +450,9 @@
     }
   }
 }
-[22:00:32.399][info] [#0:script/provider/completion.lua:43]: Enable completion.
-[22:00:32.400][info] [#0:script/provider/provider.lua:65]: Load config from client	fallback
-[22:00:32.401][info] [#0:script/provider/provider.lua:66]: {
+[22:04:07.433][info] [#0:script/provider/completion.lua:43]: Enable completion.
+[22:04:07.434][info] [#0:script/provider/provider.lua:65]: Load config from client	fallback
+[22:04:07.434][info] [#0:script/provider/provider.lua:66]: {
   Lua = {
     addonManager = {
       enable = true
@@ -560,98 +560,113 @@
     }
   }
 }
-[22:00:32.618][info] [#0:script/plugin.lua:125]: plugin path:	/home/julee/.config/nvim
-[22:00:32.618][warn] [#0:script/plugin.lua:140]: plugin not found:	/home/julee/.config/nvim
-[22:00:32.618][info] [#0:script/library.lua:212]: Init builtin library at:	file:///home/julee/.config/nvim
-[22:00:32.635][info] [#0:script/library.lua:212]: Init builtin library at:	nil
-[22:00:32.744][info] [#0:script/workspace/workspace.lua:324]: Preload start:	file:///home/julee/.config/nvim
-[22:00:32.751][info] [#0:script/workspace/workspace.lua:330]: Scan files at:	file:///home/julee/.config/nvim
-[22:00:32.754][info] [#0:script/workspace/workspace.lua:324]: Preload start:	<fallback>
-[22:00:32.769][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/table.lua
-[22:00:32.770][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/utf8.lua
-[22:00:32.770][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/basic.lua
-[22:00:32.772][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/string.lua
-[22:00:32.772][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/math.lua
-[22:00:32.773][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/io.lua
-[22:00:32.774][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/debug.lua
-[22:00:32.774][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/os.lua
-[22:00:32.776][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/builtin.lua
-[22:00:32.776][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/package.lua
-[22:00:32.777][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/coroutine.lua
-[22:00:32.780][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/table.lua
-[22:00:32.780][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/utf8.lua
-[22:00:32.780][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/basic.lua
-[22:00:32.781][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/string.lua
-[22:00:32.781][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/math.lua
-[22:00:32.781][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/io.lua
-[22:00:32.781][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/debug.lua
-[22:00:32.782][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/os.lua
-[22:00:32.782][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/builtin.lua
-[22:00:32.782][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/package.lua
-[22:00:32.783][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/coroutine.lua
-[22:00:32.884][info] [#0:script/workspace/workspace.lua:379]: Found 11 files at:	<fallback>
-[22:00:32.884][info] [#0:script/workspace/loading.lua:160]: Load files from disk:	<fallback>
-[22:00:32.884][info] [#0:script/workspace/workspace.lua:379]: Found 30 files at:	file:///home/julee/.config/nvim
-[22:00:32.884][info] [#0:script/workspace/loading.lua:160]: Load files from disk:	file:///home/julee/.config/nvim
-[22:00:32.887][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/coroutine.lua , size = 2.590 KB
-[22:00:32.896][info] [#0:script/workspace/loading.lua:112]: ++++As library of:	file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/coroutine.lua
-[22:00:32.896][info] [#0:script/workspace/loading.lua:97]: Skip loaded file: file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/coroutine.lua
-[22:00:32.896][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/package.lua , size = 2.944 KB
-[22:00:32.904][info] [#0:script/workspace/loading.lua:112]: ++++As library of:	file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/package.lua
-[22:00:32.904][info] [#0:script/workspace/loading.lua:97]: Skip loaded file: file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/package.lua
-[22:00:32.904][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/builtin.lua , size = 0.302 KB
-[22:00:32.907][info] [#0:script/workspace/loading.lua:112]: ++++As library of:	file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/builtin.lua
-[22:00:32.907][info] [#0:script/workspace/loading.lua:97]: Skip loaded file: file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/builtin.lua
-[22:00:32.907][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/os.lua , size = 5.611 KB
-[22:00:32.923][info] [#0:script/workspace/loading.lua:112]: ++++As library of:	file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/os.lua
-[22:00:32.923][info] [#0:script/workspace/loading.lua:97]: Skip loaded file: file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/os.lua
-[22:00:32.924][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/debug.lua , size = 7.637 KB
-[22:00:32.933][info] [#0:script/workspace/loading.lua:112]: ++++As library of:	file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/debug.lua
-[22:00:32.933][info] [#0:script/workspace/loading.lua:97]: Skip loaded file: file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/debug.lua
-[22:00:32.933][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/io.lua , size = 6.364 KB
-[22:00:32.939][info] [#0:script/workspace/loading.lua:112]: ++++As library of:	file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/io.lua
-[22:00:32.939][info] [#0:script/workspace/loading.lua:97]: Skip loaded file: file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/io.lua
-[22:00:32.939][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/math.lua , size = 8.542 KB
-[22:00:32.947][info] [#0:script/workspace/loading.lua:112]: ++++As library of:	file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/math.lua
-[22:00:32.947][info] [#0:script/workspace/loading.lua:97]: Skip loaded file: file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/math.lua
-[22:00:32.947][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/string.lua , size = 5.234 KB
-[22:00:32.950][info] [#0:script/workspace/loading.lua:112]: ++++As library of:	file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/string.lua
-[22:00:32.950][info] [#0:script/workspace/loading.lua:97]: Skip loaded file: file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/string.lua
-[22:00:32.950][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/basic.lua , size = 15.841 KB
-[22:00:32.964][info] [#0:script/workspace/loading.lua:112]: ++++As library of:	file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/basic.lua
-[22:00:32.964][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/utf8.lua , size = 2.386 KB
-[22:00:32.966][info] [#0:script/workspace/loading.lua:112]: ++++As library of:	file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/utf8.lua
-[22:00:32.966][info] [#0:script/workspace/loading.lua:97]: Skip loaded file: file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/utf8.lua
-[22:00:32.966][info] [#0:script/workspace/loading.lua:97]: Skip loaded file: file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/basic.lua
-[22:00:32.966][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/table.lua , size = 4.445 KB
-[22:00:32.970][info] [#0:script/workspace/loading.lua:112]: ++++As library of:	file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/table.lua
-[22:00:32.970][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/julee/.config/nvim/lua/julee/init.lua , size = 0.043 KB
-[22:00:32.970][info] [#0:script/workspace/loading.lua:97]: Skip loaded file: file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/table.lua
-[22:00:32.970][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/julee/.config/nvim/lua/julee/set.lua , size = 0.545 KB
-[22:00:32.971][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/julee/.config/nvim/lua/julee/remap.lua , size = 0.091 KB
-[22:00:32.971][info] [#0:script/workspace/loading.lua:88]: Skip loaded file: file:///home/julee/.config/nvim/lua/julee/packer.lua
-[22:00:32.971][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/julee/.config/nvim/plugin/packer_compiled.lua , size = 6.588 KB
-[22:00:32.975][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/julee/.config/nvim/after/plugin/telescope.lua , size = 0.321 KB
-[22:00:32.975][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/julee/.config/nvim/after/plugin/undotree.lua , size = 0.056 KB
-[22:00:32.976][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/julee/.config/nvim/after/plugin/fugitive.lua , size = 0.048 KB
-[22:00:32.976][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/julee/.config/nvim/after/plugin/colors.lua , size = 0.212 KB
-[22:00:32.976][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/julee/.config/nvim/after/plugin/harpoon.lua , size = 0.398 KB
-[22:00:32.977][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/julee/.config/nvim/after/plugin/themes/darkgray.lua , size = 0.901 KB
-[22:00:32.978][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/julee/.config/nvim/after/plugin/lualine.lua , size = 0.731 KB
-[22:00:32.979][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/julee/.config/nvim/after/plugin/alpha.lua , size = 7.039 KB
-[22:00:32.980][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/julee/.config/nvim/after/plugin/treesitter.lua , size = 0.918 KB
-[22:00:32.981][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/julee/.config/nvim/after/plugin/coc-settings-2.lua , size = 0.814 KB
-[22:00:32.982][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/julee/.config/nvim/after/plugin/coc-keymaps.lua , size = 0.524 KB
-[22:00:32.982][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/julee/.config/nvim/archive_plugins/feline.lua , size = 2.104 KB
-[22:00:32.984][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/julee/.config/nvim/archive_plugins/custom.lua , size = 1.074 KB
-[22:00:32.985][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/julee/.config/nvim/init.lua , size = 0.018 KB
-[22:00:32.985][info] [#0:script/workspace/loading.lua:172]: Loaded files takes [0.108] sec: file:///home/julee/.config/nvim
-[22:00:32.985][info] [#0:script/workspace/loading.lua:181]: Compile files takes [0.000] sec: file:///home/julee/.config/nvim
-[22:00:32.985][info] [#0:script/workspace/loading.lua:182]: Loaded finish:	file:///home/julee/.config/nvim
-[22:00:32.985][info] [#0:script/workspace/workspace.lua:381]: Preload finish at:	file:///home/julee/.config/nvim
-[22:00:32.992][info] [#0:script/workspace/loading.lua:172]: Loaded files takes [0.114] sec: <fallback>
-[22:00:32.992][info] [#0:script/workspace/loading.lua:181]: Compile files takes [0.000] sec: <fallback>
-[22:00:32.992][info] [#0:script/workspace/loading.lua:182]: Loaded finish:	<fallback>
-[22:00:32.992][info] [#0:script/workspace/workspace.lua:381]: Preload finish at:	<fallback>
-[22:00:34.044][info] [#0:script/provider/diagnostic.lua:560]: Diagnostics scope [file:///home/julee/.config/nvim], files count:[30]
-[22:00:34.396][info] [#0:script/provider/diagnostic.lua:577]: Diagnostics scope [file:///home/julee/.config/nvim] finished, takes [0.180] sec.
+[22:04:07.652][info] [#0:script/plugin.lua:125]: plugin path:	/home/julee/.config/nvim
+[22:04:07.652][warn] [#0:script/plugin.lua:140]: plugin not found:	/home/julee/.config/nvim
+[22:04:07.652][info] [#0:script/library.lua:212]: Init builtin library at:	file:///home/julee/.config/nvim
+[22:04:07.671][info] [#0:script/library.lua:212]: Init builtin library at:	nil
+[22:04:07.783][info] [#0:script/workspace/workspace.lua:324]: Preload start:	file:///home/julee/.config/nvim
+[22:04:07.790][info] [#0:script/workspace/workspace.lua:330]: Scan files at:	file:///home/julee/.config/nvim
+[22:04:07.792][info] [#0:script/workspace/workspace.lua:324]: Preload start:	<fallback>
+[22:04:07.805][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/table.lua
+[22:04:07.806][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/utf8.lua
+[22:04:07.807][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/basic.lua
+[22:04:07.808][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/string.lua
+[22:04:07.809][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/math.lua
+[22:04:07.809][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/io.lua
+[22:04:07.810][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/debug.lua
+[22:04:07.811][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/os.lua
+[22:04:07.812][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/builtin.lua
+[22:04:07.813][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/package.lua
+[22:04:07.813][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/coroutine.lua
+[22:04:07.816][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/table.lua
+[22:04:07.816][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/utf8.lua
+[22:04:07.816][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/basic.lua
+[22:04:07.817][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/string.lua
+[22:04:07.817][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/math.lua
+[22:04:07.817][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/io.lua
+[22:04:07.818][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/debug.lua
+[22:04:07.818][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/os.lua
+[22:04:07.818][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/builtin.lua
+[22:04:07.819][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/package.lua
+[22:04:07.819][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/coroutine.lua
+[22:04:07.920][info] [#0:script/workspace/workspace.lua:379]: Found 11 files at:	<fallback>
+[22:04:07.920][info] [#0:script/workspace/loading.lua:160]: Load files from disk:	<fallback>
+[22:04:07.920][info] [#0:script/workspace/workspace.lua:379]: Found 30 files at:	file:///home/julee/.config/nvim
+[22:04:07.920][info] [#0:script/workspace/loading.lua:160]: Load files from disk:	file:///home/julee/.config/nvim
+[22:04:07.923][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/coroutine.lua , size = 2.590 KB
+[22:04:07.931][info] [#0:script/workspace/loading.lua:112]: ++++As library of:	file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/coroutine.lua
+[22:04:07.931][info] [#0:script/workspace/loading.lua:97]: Skip loaded file: file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/coroutine.lua
+[22:04:07.931][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/package.lua , size = 2.944 KB
+[22:04:07.938][info] [#0:script/workspace/loading.lua:112]: ++++As library of:	file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/package.lua
+[22:04:07.938][info] [#0:script/workspace/loading.lua:97]: Skip loaded file: file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/package.lua
+[22:04:07.938][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/builtin.lua , size = 0.302 KB
+[22:04:07.941][info] [#0:script/workspace/loading.lua:112]: ++++As library of:	file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/builtin.lua
+[22:04:07.941][info] [#0:script/workspace/loading.lua:97]: Skip loaded file: file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/builtin.lua
+[22:04:07.941][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/os.lua , size = 5.611 KB
+[22:04:07.956][info] [#0:script/workspace/loading.lua:112]: ++++As library of:	file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/os.lua
+[22:04:07.956][info] [#0:script/workspace/loading.lua:97]: Skip loaded file: file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/os.lua
+[22:04:07.956][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/debug.lua , size = 7.637 KB
+[22:04:07.965][info] [#0:script/workspace/loading.lua:112]: ++++As library of:	file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/debug.lua
+[22:04:07.965][info] [#0:script/workspace/loading.lua:97]: Skip loaded file: file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/debug.lua
+[22:04:07.965][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/io.lua , size = 6.364 KB
+[22:04:07.970][info] [#0:script/workspace/loading.lua:112]: ++++As library of:	file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/io.lua
+[22:04:07.970][info] [#0:script/workspace/loading.lua:97]: Skip loaded file: file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/io.lua
+[22:04:07.970][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/math.lua , size = 8.542 KB
+[22:04:07.977][info] [#0:script/workspace/loading.lua:112]: ++++As library of:	file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/math.lua
+[22:04:07.977][info] [#0:script/workspace/loading.lua:97]: Skip loaded file: file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/math.lua
+[22:04:07.977][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/string.lua , size = 5.234 KB
+[22:04:07.981][info] [#0:script/workspace/loading.lua:112]: ++++As library of:	file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/string.lua
+[22:04:07.981][info] [#0:script/workspace/loading.lua:97]: Skip loaded file: file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/string.lua
+[22:04:07.981][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/basic.lua , size = 15.841 KB
+[22:04:07.989][info] [#0:script/workspace/loading.lua:112]: ++++As library of:	file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/basic.lua
+[22:04:07.989][info] [#0:script/workspace/loading.lua:97]: Skip loaded file: file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/basic.lua
+[22:04:07.989][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/utf8.lua , size = 2.386 KB
+[22:04:07.994][info] [#0:script/workspace/loading.lua:112]: ++++As library of:	file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/utf8.lua
+[22:04:07.994][info] [#0:script/workspace/loading.lua:97]: Skip loaded file: file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/utf8.lua
+[22:04:07.994][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/table.lua , size = 4.445 KB
+[22:04:07.997][info] [#0:script/workspace/loading.lua:112]: ++++As library of:	file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/table.lua
+[22:04:07.997][info] [#0:script/workspace/loading.lua:97]: Skip loaded file: file:///home/julee/.config/coc/extensions/coc-lua-data/lua-language-server/meta/Lua%205.4%20en-us%20utf8/table.lua
+[22:04:07.997][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/julee/.config/nvim/lua/julee/init.lua , size = 0.043 KB
+[22:04:07.997][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/julee/.config/nvim/lua/julee/set.lua , size = 0.545 KB
+[22:04:07.998][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/julee/.config/nvim/lua/julee/remap.lua , size = 0.091 KB
+[22:04:07.999][info] [#0:script/workspace/loading.lua:88]: Skip loaded file: file:///home/julee/.config/nvim/lua/julee/packer.lua
+[22:04:07.999][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/julee/.config/nvim/plugin/packer_compiled.lua , size = 6.588 KB
+[22:04:08.002][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/julee/.config/nvim/after/plugin/telescope.lua , size = 0.321 KB
+[22:04:08.003][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/julee/.config/nvim/after/plugin/undotree.lua , size = 0.056 KB
+[22:04:08.003][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/julee/.config/nvim/after/plugin/fugitive.lua , size = 0.048 KB
+[22:04:08.003][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/julee/.config/nvim/after/plugin/colors.lua , size = 0.212 KB
+[22:04:08.004][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/julee/.config/nvim/after/plugin/harpoon.lua , size = 0.398 KB
+[22:04:08.004][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/julee/.config/nvim/after/plugin/themes/darkgray.lua , size = 0.901 KB
+[22:04:08.005][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/julee/.config/nvim/after/plugin/lualine.lua , size = 0.731 KB
+[22:04:08.006][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/julee/.config/nvim/after/plugin/alpha.lua , size = 7.039 KB
+[22:04:08.007][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/julee/.config/nvim/after/plugin/treesitter.lua , size = 0.918 KB
+[22:04:08.007][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/julee/.config/nvim/after/plugin/coc-settings-2.lua , size = 0.814 KB
+[22:04:08.009][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/julee/.config/nvim/after/plugin/coc-keymaps.lua , size = 0.524 KB
+[22:04:08.009][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/julee/.config/nvim/archive_plugins/feline.lua , size = 2.104 KB
+[22:04:08.011][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/julee/.config/nvim/archive_plugins/custom.lua , size = 1.074 KB
+[22:04:08.011][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/julee/.config/nvim/init.lua , size = 0.018 KB
+[22:04:08.012][info] [#0:script/workspace/loading.lua:172]: Loaded files takes [0.098] sec: file:///home/julee/.config/nvim
+[22:04:08.012][info] [#0:script/workspace/loading.lua:181]: Compile files takes [0.000] sec: file:///home/julee/.config/nvim
+[22:04:08.012][info] [#0:script/workspace/loading.lua:182]: Loaded finish:	file:///home/julee/.config/nvim
+[22:04:08.012][info] [#0:script/workspace/workspace.lua:381]: Preload finish at:	file:///home/julee/.config/nvim
+[22:04:08.117][info] [#0:script/workspace/loading.lua:172]: Loaded files takes [0.104] sec: <fallback>
+[22:04:08.117][info] [#0:script/workspace/loading.lua:181]: Compile files takes [0.000] sec: <fallback>
+[22:04:08.117][info] [#0:script/workspace/loading.lua:182]: Loaded finish:	<fallback>
+[22:04:08.117][info] [#0:script/workspace/workspace.lua:381]: Preload finish at:	<fallback>
+[22:04:09.069][info] [#0:script/provider/diagnostic.lua:560]: Diagnostics scope [file:///home/julee/.config/nvim], files count:[30]
+[22:04:09.428][info] [#0:script/provider/diagnostic.lua:577]: Diagnostics scope [file:///home/julee/.config/nvim] finished, takes [0.188] sec.
+[22:07:18.971][info] [#0:script/workspace/workspace.lua:284]: Scan files at:	file:///home/julee/.config/nvim/after/plugin/coc-settings.json
+[22:07:18.972][info] [#0:script/workspace/loading.lua:160]: Load files from disk:	file:///home/julee/.config/nvim/after/plugin/coc-settings.json
+[22:07:18.972][info] [#0:script/workspace/loading.lua:172]: Loaded files takes [0.000] sec: file:///home/julee/.config/nvim/after/plugin/coc-settings.json
+[22:07:18.972][info] [#0:script/workspace/loading.lua:181]: Compile files takes [0.000] sec: file:///home/julee/.config/nvim/after/plugin/coc-settings.json
+[22:07:18.972][info] [#0:script/workspace/loading.lua:182]: Loaded finish:	file:///home/julee/.config/nvim/after/plugin/coc-settings.json
+[22:07:48.973][info] [#0:script/workspace/workspace.lua:284]: Scan files at:	file:///home/julee/.config/nvim/after/plugin/coc-settings.json
+[22:07:48.974][info] [#0:script/workspace/loading.lua:160]: Load files from disk:	file:///home/julee/.config/nvim/after/plugin/coc-settings.json
+[22:07:48.975][info] [#0:script/workspace/loading.lua:172]: Loaded files takes [0.000] sec: file:///home/julee/.config/nvim/after/plugin/coc-settings.json
+[22:07:48.975][info] [#0:script/workspace/loading.lua:181]: Compile files takes [0.000] sec: file:///home/julee/.config/nvim/after/plugin/coc-settings.json
+[22:07:48.975][info] [#0:script/workspace/loading.lua:182]: Loaded finish:	file:///home/julee/.config/nvim/after/plugin/coc-settings.json
+[22:07:50.974][info] [#0:script/workspace/workspace.lua:284]: Scan files at:	file:///home/julee/.config/nvim/after/plugin/coc-settings.json
+[22:07:50.975][info] [#0:script/workspace/loading.lua:160]: Load files from disk:	file:///home/julee/.config/nvim/after/plugin/coc-settings.json
+[22:07:50.975][info] [#0:script/workspace/loading.lua:172]: Loaded files takes [0.000] sec: file:///home/julee/.config/nvim/after/plugin/coc-settings.json
+[22:07:50.975][info] [#0:script/workspace/loading.lua:181]: Compile files takes [0.000] sec: file:///home/julee/.config/nvim/after/plugin/coc-settings.json
+[22:07:50.975][info] [#0:script/workspace/loading.lua:182]: Loaded finish:	file:///home/julee/.config/nvim/after/plugin/coc-settings.json

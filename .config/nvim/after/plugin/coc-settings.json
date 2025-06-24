@@ -16,5 +16,10 @@
       "command": "lua-language-server",
       "filetypes": ["lua"]
     }
-  }
+  },
+  "go.formatTool": "gopls",
+  "go.goplsOptions": {
+    "formatting.gofumpt": true
+  },
+  "go.useLanguageServer": true
 }

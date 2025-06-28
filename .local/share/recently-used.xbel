@@ -213,4 +213,14 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/julee/Pictures/Screenshots/screenshot_2025-06-28_19-23-33.png" added="2025-06-28T19:25:09.494435Z" modified="2025-06-28T19:25:09.494440Z" visited="2025-06-28T19:25:09.494435Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-06-28T19:25:09.494437Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>

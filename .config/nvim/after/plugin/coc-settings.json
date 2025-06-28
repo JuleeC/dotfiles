@@ -1,25 +1,21 @@
 {
   "suggest.noselect": false,
   "suggest.enablePreview": true,
+
   "diagnostic.virtualText": true,
-  "coc.preferences.formatOnSaveFiletypes": [
-    "javascript",
-    "typescript",
-    "lua",
-    "python",
-    "json",
-    "markdown",
-    "go"
-  ],
+  "diagnostic.enableSign": false,
+
+  "coc.preferences.formatOnSave": true,
   "languageserver": {
     "lua": {
       "command": "lua-language-server",
       "filetypes": ["lua"]
     }
   },
+
+  "go.useLanguageServer": true,
   "go.formatTool": "gopls",
   "go.goplsOptions": {
     "formatting.gofumpt": true
-  },
-  "go.useLanguageServer": true
+  }
 }

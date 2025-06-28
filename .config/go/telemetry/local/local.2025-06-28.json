@@ -1,0 +1,166 @@
+{
+ "Week": "2025-06-28",
+ "LastWeek": "",
+ "X": 0.5612372851009579,
+ "Programs": [
+  {
+   "Program": "cmd/asm",
+   "Version": "go1.24.4",
+   "GoVersion": "go1.24.4",
+   "GOOS": "linux",
+   "GOARCH": "amd64",
+   "Counters": {
+    "asm/flag:D": 39,
+    "asm/flag:I": 39,
+    "asm/flag:gensymabis": 19,
+    "asm/flag:o": 39,
+    "asm/flag:p": 39,
+    "asm/flag:trimpath": 39,
+    "asm/invocations": 39
+   },
+   "Stacks": {}
+  },
+  {
+   "Program": "cmd/buildid",
+   "Version": "go1.24.4",
+   "GoVersion": "go1.24.4",
+   "GOOS": "linux",
+   "GOARCH": "amd64",
+   "Counters": {
+    "buildid/invocations": 6
+   },
+   "Stacks": {}
+  },
+  {
+   "Program": "cmd/cgo",
+   "Version": "go1.24.4",
+   "GoVersion": "go1.24.4",
+   "GOOS": "linux",
+   "GOARCH": "amd64",
+   "Counters": {
+    "cgo/flag:dynimport": 3,
+    "cgo/flag:dynlinker": 1,
+    "cgo/flag:dynout": 3,
+    "cgo/flag:dynpackage": 3,
+    "cgo/flag:import_runtime_cgo": 1,
+    "cgo/flag:import_syscall": 1,
+    "cgo/flag:importpath": 3,
+    "cgo/flag:ldflags": 3,
+    "cgo/flag:objdir": 3,
+    "cgo/invocations": 6
+   },
+   "Stacks": {}
+  },
+  {
+   "Program": "cmd/compile",
+   "Version": "go1.24.4",
+   "GoVersion": "go1.24.4",
+   "GOOS": "linux",
+   "GOARCH": "amd64",
+   "Counters": {
+    "compile/flag:asmhdr": 19,
+    "compile/flag:buildid": 649,
+    "compile/flag:c": 649,
+    "compile/flag:complete": 625,
+    "compile/flag:dwarf": 15,
+    "compile/flag:embedcfg": 41,
+    "compile/flag:goversion": 649,
+    "compile/flag:importcfg": 649,
+    "compile/flag:lang": 649,
+    "compile/flag:nolocalimports": 649,
+    "compile/flag:o": 649,
+    "compile/flag:p": 649,
+    "compile/flag:pack": 649,
+    "compile/flag:std": 177,
+    "compile/flag:symabis": 19,
+    "compile/flag:trimpath": 649,
+    "compile/invocations": 1401
+   },
+   "Stacks": {}
+  },
+  {
+   "Program": "cmd/go",
+   "Version": "go1.24.4",
+   "GoVersion": "go1.24.4",
+   "GOOS": "linux",
+   "GOARCH": "amd64",
+   "Counters": {
+    "go/buildcache/hit": 5025,
+    "go/buildcache/miss": 731,
+    "go/buildcache/stdlib-recompiled": 1,
+    "go/env/flag:json": 22,
+    "go/goroot:usr-lib-go": 241,
+    "go/invocations": 241,
+    "go/list/flag:compiled": 48,
+    "go/list/flag:deps": 48,
+    "go/list/flag:e": 102,
+    "go/list/flag:export": 48,
+    "go/list/flag:f": 102,
+    "go/list/flag:find": 48,
+    "go/list/flag:json": 48,
+    "go/list/flag:overlay": 102,
+    "go/list/flag:pgo": 48,
+    "go/list/flag:test": 48,
+    "go/mode:gopath": 160,
+    "go/mode:module": 81,
+    "go/platform/host/linux/major-version:6": 241,
+    "go/platform/host/linux/version:6-14": 241,
+    "go/platform/target/goamd64:v1": 241,
+    "go/platform/target/goarch:amd64": 241,
+    "go/platform/target/goos:linux": 241,
+    "go/subcommand:build": 33,
+    "go/subcommand:env": 22,
+    "go/subcommand:install": 1,
+    "go/subcommand:list": 150,
+    "go/subcommand:run": 22,
+    "go/subcommand:tool-buildid": 6,
+    "go/subcommand:version": 7
+   },
+   "Stacks": {}
+  },
+  {
+   "Program": "golang.org/x/tools/gopls",
+   "Version": "v0.19.1",
+   "GoVersion": "go1.24.4",
+   "GOOS": "linux",
+   "GOARCH": "amd64",
+   "Counters": {
+    "gopls/client:coc.nvim": 6,
+    "gopls/completion/latency:\u003c100ms": 3,
+    "gopls/completion/latency:\u003c10ms": 218,
+    "gopls/completion/latency:\u003c200ms": 2,
+    "gopls/completion/latency:\u003c500ms": 1,
+    "gopls/completion/latency:\u003c50ms": 1,
+    "gopls/completion/len:0": 125,
+    "gopls/completion/len:\u003c=10": 71,
+    "gopls/completion/len:\u003e10": 30,
+    "gopls/completion/used:no": 149,
+    "gopls/completion/used:yes": 1,
+    "gopls/gotoolchain:auto": 6,
+    "gopls/goversion:1.24": 6,
+    "gopls/setting/env": 6,
+    "gopls/telemetryprompt/attempts:0": 6
+   },
+   "Stacks": {}
+  },
+  {
+   "Program": "cmd/link",
+   "Version": "go1.24.4",
+   "GoVersion": "go1.24.4",
+   "GOOS": "linux",
+   "GOARCH": "amd64",
+   "Counters": {
+    "link/flag:buildid": 26,
+    "link/flag:buildmode": 26,
+    "link/flag:extld": 26,
+    "link/flag:importcfg": 26,
+    "link/flag:o": 26,
+    "link/flag:s": 12,
+    "link/flag:w": 12,
+    "link/invocations": 72
+   },
+   "Stacks": {}
+  }
+ ],
+ "Config": "v0.0.0-0"
+}

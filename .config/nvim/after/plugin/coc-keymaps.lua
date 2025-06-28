@@ -8,5 +8,5 @@ vim.api.nvim_set_keymap("n", "<leader>rn", "<Plug>(coc-rename)", opts)
 
 -- Formatting
 vim.cmd [[
-  autocmd BufWritePre *.js,*.ts,*.py,*.lua,*.json,*.md :silent! :CocCommand editor.action.formatDocument
+  autocmd BufWritePre *.js,*.go,*.ts,*.py,*.lua,*.json,*.md :silent! :CocCommand editor.action.formatDocument
 ]]

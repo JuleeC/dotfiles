@@ -1,0 +1,28 @@
+{
+  "suggest.noselect": false,
+  "suggest.enablePreview": true,
+
+  "diagnostic.virtualText": true,
+  "diagnostic.virtualTextCurrentLineOnly": true,
+  "diagnostic.displayByAle": false,
+  "diagnostic.messageTarget": "echo",
+  "diagnostic.enableSign": false,
+
+  "diagnostic.checkCurrentLine": true,
+  "diagnostic.delay": 0,
+
+  "coc.preferences.formatOnSave": true,
+
+  "languageserver": {
+    "lua": {
+      "command": "lua-language-server",
+      "filetypes": ["lua"]
+    }
+  },
+
+  "go.useLanguageServer": true,
+  "go.formatTool": "gopls",
+  "go.goplsOptions": {
+    "formatting.gofumpt": true
+  }
+}

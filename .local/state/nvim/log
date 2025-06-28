@@ -6,3 +6,12 @@ ERR 2025-06-09T21:41:44.254 ui.16999   tui_stop:618: TUI already stopped (race?)
 ERR 2025-06-11T15:40:33.728 ui.2739    tui_stop:618: TUI already stopped (race?)
 ERR 2025-06-15T20:33:15.174 ui.4286    tui_stop:618: TUI already stopped (race?)
 ERR 2025-06-24T22:12:51.853 ui.13204   tui_stop:618: TUI already stopped (race?)
+ERR 2025-06-28T19:16:25.514 nvim.5002.0 buf_updates_send_changes:260: Disabling buffer updates for dead channel 3
+ERR 2025-06-28T19:17:17.943 nvim.5002.0 buf_updates_send_changes:260: Disabling buffer updates for dead channel 17
+ERR 2025-06-28T19:17:35.056 nvim.5002.0 buf_updates_send_changes:260: Disabling buffer updates for dead channel 19
+ERR 2025-06-28T19:18:09.428 nvim.5002.0 buf_updates_send_changes:260: Disabling buffer updates for dead channel 21
+ERR 2025-06-28T19:19:02.174 nvim.5002.0 buf_updates_send_changes:260: Disabling buffer updates for dead channel 23
+ERR 2025-06-28T19:21:23.978 nvim.5002.0 buf_updates_send_changes:260: Disabling buffer updates for dead channel 26
+ERR 2025-06-28T19:22:19.262 nvim.5002.0 buf_updates_send_changes:260: Disabling buffer updates for dead channel 31
+ERR 2025-06-28T19:22:56.076 nvim.5002.0 buf_updates_send_changes:260: Disabling buffer updates for dead channel 33
+ERR 2025-06-28T19:26:26.622 nvim.5002.0 buf_updates_send_changes:260: Disabling buffer updates for dead channel 35

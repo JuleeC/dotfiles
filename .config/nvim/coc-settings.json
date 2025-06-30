@@ -6,10 +6,9 @@
   "diagnostic.virtualTextCurrentLineOnly": true,
   "diagnostic.displayByAle": false,
   "diagnostic.messageTarget": "echo",
-  "diagnostic.enableSign": false,
+  "diagnostic.enableSign": true,
 
   "diagnostic.checkCurrentLine": true,
-  "diagnostic.delay": 0,
 
   "coc.preferences.formatOnSave": true,
 

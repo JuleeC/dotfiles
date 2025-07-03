@@ -15,3 +15,4 @@ ERR 2025-06-28T19:21:23.978 nvim.5002.0 buf_updates_send_changes:260: Disabling 
 ERR 2025-06-28T19:22:19.262 nvim.5002.0 buf_updates_send_changes:260: Disabling buffer updates for dead channel 31
 ERR 2025-06-28T19:22:56.076 nvim.5002.0 buf_updates_send_changes:260: Disabling buffer updates for dead channel 33
 ERR 2025-06-28T19:26:26.622 nvim.5002.0 buf_updates_send_changes:260: Disabling buffer updates for dead channel 35
+ERR 2025-06-30T12:24:09.206 nvim.3222.0 buf_updates_send_changes:260: Disabling buffer updates for dead channel 4

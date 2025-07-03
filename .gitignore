@@ -5,6 +5,7 @@
 .local/
 .ssh/
 .vim/
+.config/go/
 Downloads/
 Projects/
 yay/

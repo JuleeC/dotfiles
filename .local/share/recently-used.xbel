@@ -244,4 +244,25 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/julee/.config/neofetch/kobe.png%23" added="2025-07-03T13:00:55.807686Z" modified="2025-07-03T13:00:55.807702Z" visited="2025-07-03T13:00:55.807688Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-07-03T13:00:55.807694Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/julee/.config/neofetch/kobe.png" added="2025-07-03T13:00:56.169759Z" modified="2025-07-03T13:01:26.891654Z" visited="2025-07-03T13:00:56.169760Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-07-03T13:00:56.169763Z" count="1"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-07-03T13:01:26.891633Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>

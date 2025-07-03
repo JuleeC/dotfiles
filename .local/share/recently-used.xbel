@@ -113,12 +113,13 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/julee/Pictures/profile_pictures/julee.jpg" added="2025-06-09T20:33:05.657031Z" modified="2025-06-09T20:33:05.976519Z" visited="2025-06-09T20:33:05.657033Z">
+  <bookmark href="file:///home/julee/Pictures/profile_pictures/julee.jpg" added="2025-06-09T20:33:05.657031Z" modified="2025-07-03T12:55:37.952915Z" visited="2025-06-09T20:33:05.657033Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/jpeg"/>
         <bookmark:applications>
           <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-06-09T20:33:05.976515Z" count="2"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-07-03T12:55:37.952912Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -219,6 +220,26 @@
         <mime:mime-type type="image/png"/>
         <bookmark:applications>
           <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-06-28T19:25:09.494437Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/julee/Pictures/Screenshots/SHOW_OFF_ROFI.png" added="2025-07-03T12:55:23.963239Z" modified="2025-07-03T12:55:23.963249Z" visited="2025-07-03T12:55:23.963240Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-07-03T12:55:23.963243Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/julee/Pictures/profile_pictures/wallpaper_space.png" added="2025-07-03T12:55:32.503940Z" modified="2025-07-03T12:55:32.503948Z" visited="2025-07-03T12:55:32.503941Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-07-03T12:55:32.503944Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>

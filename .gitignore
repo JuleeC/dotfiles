@@ -6,6 +6,7 @@
 .ssh/
 .vim/
 .config/go/
+.config/coc/
 Downloads/
 Projects/
 yay/

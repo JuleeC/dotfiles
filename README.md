@@ -17,19 +17,6 @@ The config has a austronaut like theme and isnt as configured as others but i li
 - waybar: waybar xd
 - hyprpaper,wlogout,....
 
-## Goals
-
-- coding some own eww widgets
-- ~~waybar needs to look fresher~~
-- ~~customizing rofi~~
-- ~~intsallling a file explorer with picture preview~~
-- ~~changing wlogout it looks horrible~~
-- ~~changing firefox theme~~
-- ~~adding lsp~~
-- ~~adding coc~~
-- ~~customizing tmux fresher~~
-- ricing more hyprland :)
-
 ### thats how it looks :)
 
 ![image](https://github.com/JuleeC/dotfiles/blob/main/Pictures/Screenshots/SHOW_OFF_3.png)

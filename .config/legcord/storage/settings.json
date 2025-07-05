@@ -1,0 +1,56 @@
+{
+    "windowStyle": "default",
+    "channel": "stable",
+    "bounceOnPing": false,
+    "legcordCSP": true,
+    "minimizeToTray": true,
+    "overlayButtonColor": "#121214",
+    "keybinds": [],
+    "audio": {
+        "workaround": false,
+        "deviceSelect": true,
+        "granularSelect": true,
+        "ignoreVirtual": false,
+        "ignoreDevices": false,
+        "ignoreInputMedia": false,
+        "onlySpeakers": false,
+        "onlyDefaultSpeakers": true,
+        "loopbackType": "loopback"
+    },
+    "multiInstance": false,
+    "mods": [
+        "vencord"
+    ],
+    "transparency": "none",
+    "spellcheck": true,
+    "hardwareAcceleration": true,
+    "performanceMode": "none",
+    "skipSplash": false,
+    "inviteWebsocket": true,
+    "startMinimized": false,
+    "disableHttpCache": false,
+    "customJsBundle": "https://legcord.app/placeholder.js",
+    "customCssBundle": "https://legcord.app/placeholder.css",
+    "disableAutogain": false,
+    "autoHideMenuBar": true,
+    "blockPowerSavingInVoiceChat": false,
+    "useMacSystemPicker": true,
+    "mobileMode": false,
+    "tray": "disabled",
+    "doneSetup": true,
+    "popoutPiP": false,
+    "spellcheckLanguage": [
+        "en-US"
+    ],
+    "sleepInBackground": false,
+    "noBundleUpdates": false,
+    "additionalArguments": "",
+    "customIcon": "/usr/share/legcord/app.asar/assets/desktop.png",
+    "smoothScroll": true,
+    "autoScroll": false,
+    "useSystemCssEditor": false,
+    "modCache": {
+        "shelter": "744287d49258a7cef57484c95a7f05124530002a",
+        "vencord": "643122e323fd9b36b456b42ef13e159f5b10015e"
+    }
+}

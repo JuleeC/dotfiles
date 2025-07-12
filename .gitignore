@@ -2,6 +2,7 @@
 .password-store/
 .cache/
 .pki/
+.supermaven/
 .gnupg/
 .local/
 .ssh/

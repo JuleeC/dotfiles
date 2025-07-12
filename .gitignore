@@ -14,7 +14,7 @@ go/
 .cargo/
 .rustup/
 Downloads/
-Projects/
+dev/
 yay/
 .bash_history
 .bash_logout

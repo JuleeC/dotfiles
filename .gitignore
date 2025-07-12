@@ -7,6 +7,8 @@
 .vim/
 .config/go/
 .config/coc/
+.cargo/
+.rustup/
 Downloads/
 Projects/
 yay/

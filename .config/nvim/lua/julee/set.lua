@@ -1,7 +1,7 @@
 vim.opt.guicursor = ""
 
 vim.o.autowriteall = true
-
+vim.api.nvim_set_hl(0, "Visual", { bg = "NONE", fg = "NONE", blend = 100 })
 vim.opt.nu = true
 vim.opt.relativenumber = true
 

@@ -1,6 +1,7 @@
 .mozilla/
 .password-store/
 .cache/
+.pki/
 .gnupg/
 .local/
 .ssh/

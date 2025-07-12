@@ -8,6 +8,7 @@ node_modules/
 .local/
 .ssh/
 .vim/
+go/
 .config/go/
 .config/coc/
 .cargo/

@@ -4,6 +4,7 @@
 .pki/
 .supermaven/
 .gnupg/
+node_modules/
 .local/
 .ssh/
 .vim/

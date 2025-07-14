@@ -1,5 +1,5 @@
 [stream-properties]
-Audio/Sink:node.name:auto_null={"channelVolumes":[1.000000, 1.000000], "volume":1.000000, "channelMap":["FL", "FR"], "mute":false}
+Audio/Sink:node.name:auto_null={"channelMap":["FL", "FR"], "channelVolumes":[1.000000, 1.000000], "volume":1.000000, "mute":false}
 Input/Audio:application.id:org.PulseAudio.pavucontrol={"mute":false, "channelMap":["MONO"], "channelVolumes":[1.000000], "volume":1.000000}
-Output/Audio:application.name:Chromium={"volume":1.000000, "channelMap":["FL", "FR"], "mute":false, "channelVolumes":[1.000000, 1.000000]}
+Output/Audio:application.name:Chromium={"channelMap":["FL", "FR"], "mute":false, "volume":1.000000, "channelVolumes":[1.000000, 1.000000]}
 Output/Audio:application.name:Firefox={"channelMap":["FL", "FR"], "mute":false, "volume":1.000000, "channelVolumes":[1.000000, 1.000000]}

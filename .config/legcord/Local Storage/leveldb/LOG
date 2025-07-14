@@ -1,6 +1,0 @@
-2025/07/05-18:06:59.219 1f9f6 Reusing MANIFEST /home/julee/.config/legcord/Local Storage/leveldb/MANIFEST-000001
-2025/07/05-18:06:59.220 1f9f6 Recovering log #3
-2025/07/05-18:06:59.220 1f9f6 Reusing old log /home/julee/.config/legcord/Local Storage/leveldb/000003.log 
-2025/07/05-18:10:00.982 1f9f7 Level-0 table #5: started
-2025/07/05-18:10:00.990 1f9f7 Level-0 table #5: 112026 bytes OK
-2025/07/05-18:10:01.002 1f9f7 Delete type=0 #3

@@ -19,8 +19,6 @@ The config has a austronaut like theme and isnt as configured as others but i li
 
 ### thats how it looks :)
 
-![image](https://github.com/JuleeC/dotfiles/blob/main/Pictures/Screenshots/SHOW_OFF_3.png)
-
 ![image](https://github.com/JuleeC/dotfiles/blob/main/Pictures/Screenshots/SHOW_OFF_2.png)
 
 ![image](https://github.com/JuleeC/dotfiles/blob/main/Pictures/Screenshots/SHOW_OFF_LOGINN.png)
